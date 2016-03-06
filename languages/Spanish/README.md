@@ -11,34 +11,32 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
  - [Animaciones][10]
  - [Patrones][11]
 
-##CustomViews
+###CustomViews
 
-###Videos
+####Videos
 - [GDG DevFest Córdoba 2015. Track 1. Jorge Castillo. Jobandtalent. Android drawing & Graphics API][23]
 
-##Architecture
+###Architecture
 
-###Videos
+####Videos
 - [Karumi Clean Architecture][2] 
 - [GDG Mallorca TekTalk3 - Limpiando espero la arquitectura que yo quiero][20]
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
 - [Forgetting Android Jorge Barroso][22]
 - [GDG DevFest Córdoba 2015. Track 1. Jorge Juan Barroso. Karumi. Persistiendo que es gerundio][26]
 
-##Dependency Injection
+###Dependency Injection
 
-###Videos
+####Videos
 - [GDG DevFest Córdoba 2015. Track 1. Pedro Vicente Gómez. Karumi. Dependency Injection on Android][25]	
 
-##Kotlin
+###Kotlin
 
-###Videos
+####Videos
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
 - [Kotlin for Android Developers (Codemotion Madrid 2015)][28]
 
-###Videos
-
-##Listas de reproducción
+###Listas de reproducción
 - [GDG DevFest Córdoba 2015][24]
 
 
@@ -62,11 +60,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [1]: http://www.materialdoc.es/componentes/
 [10]: http://www.materialdoc.es/animaciones/
 [11]: http://www.materialdoc.es/patrones/
-[12]: 
-[13]: 
-[14]: 
-[15]: 
-[16]: 
+
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
