@@ -61,6 +61,7 @@ Añade el primer post
 
 ######Videos
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
+- [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 
 ###Kotlin
 
@@ -153,6 +154,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [28]: https://www.youtube.com/watch?v=NRJl_942r08&index=2&list=PLPzDuDqV48b27hC5PRLRHzwiPRF9OXv3u
 [29]: https://www.youtube.com/watch?v=ErA7mlpVryQ&list=PLiLJQ1Z3egaqC1abWSLmcNurOtfHwhKIf&index=20
 [201]: https://www.youtube.com/watch?v=ddkCIFu5O8s&list=PLiLJQ1Z3egaqC1abWSLmcNurOtfHwhKIf&index=23
+[202]: https://www.youtube.com/watch?v=3ncgYhcU6aQ
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations
@@ -182,4 +184,3 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [50]: https://twitter.com/@lime_cl/
 [51]: https://twitter.com/CarlosMChica
 [52]: https://twitter.com/maros87
-
