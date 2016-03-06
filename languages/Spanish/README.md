@@ -4,6 +4,18 @@ Colección de posts y videos de la comunidad android en español.
 
 Ayúdame a crear juntos la mayor colección de información acerca de la comunidad de android.
 
+###Resumen
+
+#####[Android UI](#android-ui)
+#####[CustomViews](#customviews)
+#####[Arquitectura](#arquitectura)
+#####[Inyección de dependencias](#inyección-de-dpendencias)
+#####[Testing](#testing)
+#####[Kotlin](#kotlin)
+#####[Listas de reproducción](#listas-de-reproducción)
+#####[Series](#series)
+#####[Slides](#slides)
+
 
 ###Android UI
 
@@ -13,49 +25,49 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 
 ###CustomViews
 
-####Posts
+######Posts
 Añade el primer post
 
-####Videos
+######Videos
 - [GDG DevFest Córdoba 2015. Track 1. Jorge Castillo. Jobandtalent. Android drawing & Graphics API][23]
 - [Saul Molinero - Design & be reactive on Android with Iron Man in a clean way][29]
 
-###Architecture
+###Arquitectura
 
-####Posts
+######Posts
 - [‘Avengers’ vs Dagger2, RxJava & Retrofit visto desde ‘Clean’ por Saul Molinero][12]
 - [Arquitectura del software y sus beneficios por Christian Panadero][13]
 
 
-####Videos
+######Videos
 - [Karumi Clean Architecture][2] 
 - [GDG Mallorca TekTalk3 - Limpiando espero la arquitectura que yo quiero][20]
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
 - [Forgetting Android Jorge Barroso][22]
 - [GDG DevFest Córdoba 2015. Jorge Juan Barroso. Karumi. Persistiendo que es gerundio][26]
 
-###Dependency Injection
+###Inyección de dependencias
 
-####Posts
+######Posts
 Añade el primer post
 
-####Videos
+######Videos
 - [GDG DevFest Córdoba 2015. Pedro Vicente Gómez. Karumi. Dependency Injection on Android][25]	
 
 ###Testing 
 
-####Posts
+######Posts
 Añade el primer post
 
-####Videos
+######Videos
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 
 ###Kotlin
 
-####Posts
+######Posts
 Añade el primer post
 
-####Videos
+######Videos
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
 - [Kotlin for Android Developers (Codemotion Madrid 2015)][28]
 
