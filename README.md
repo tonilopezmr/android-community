@@ -99,7 +99,7 @@ You can find lots of video presentations here:
 
 ###License
 
-[tonilopezmr.github.io][1] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
+[tonilopezmr.github.io][0] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
 
 
 [0]: http://tonilopezmr.github.io/
