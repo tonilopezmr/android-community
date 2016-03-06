@@ -4,6 +4,8 @@ Collection of posts and videos android community.
 
 Help me for create together the bigest collection of posts and videos android community.
 
+- [Spanish Community][7]
+
 ###Summary
 
 #####[Android UI](#android-ui)
@@ -14,6 +16,7 @@ Help me for create together the bigest collection of posts and videos android co
 #####[Series](#series)
 #####[Slides](#slides)
 #####[Discover](#discover)
+
 
 ###Android UI
 
@@ -146,3 +149,6 @@ You can find lots of video presentations here:
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
 [60]: https://twitter.com/goKarumi
+
+[comment]: <Languages> 
+[7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
