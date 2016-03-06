@@ -2,7 +2,7 @@
 
 Collection of posts and videos android community.
 
-Help me for create together the bigest collection of posts and videos android community.
+Help me to create together the biggest collection of information about android community.
 
 - [Spanish Community][7]
 
