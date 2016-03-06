@@ -67,6 +67,11 @@ Add a first video testing
 	- [Building a Kotlin project 1/2][53]
 	- [Building a Kotlin project 2/2][54]
 
+- A useful stack on android - [Saul Molinero][61]
+	- [Architecture][55]
+	- [UI][56]
+	- [Compatibility][57]
+
 ###Slides
 
 You can find lots of video presentations here:
@@ -145,10 +150,14 @@ You can find lots of video presentations here:
 [52]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-4/
 [53]: http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project/
 [54]: http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/
+[55]: http://saulmm.github.io/2015/02/02/A-useful-stack-on-android-1,-architecture/
+[56]: http://saulmm.github.io/a-useful-stack-on-android-2-user-interface
+[57]: http://saulmm.github.io/a-useful-stack-on-android-3-compatibility
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
 [60]: https://twitter.com/goKarumi
+[61]: https://twitter.com/_saulmm   
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md

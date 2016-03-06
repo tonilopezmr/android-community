@@ -160,8 +160,8 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [402]: http://devexperto.com/testing-nivel-3-primer-test/
 
 [comment]: <People> 
-[5]: https://twitter.com/@lime_cl/
-[50]: https://twitter.com/_saulmm 
+[5]: https://twitter.com/_saulmm   
+[50]: https://twitter.com/@lime_cl/
 [51]: https://twitter.com/CarlosMChica
 [52]: https://twitter.com/maros87
 
