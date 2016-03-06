@@ -52,4 +52,3 @@ Help me for create together the bigest collection of posts and videos android co
 [3]: http://developer.android.com/intl/es/index.html
 [30]: http://droidcon.com/
 
-
