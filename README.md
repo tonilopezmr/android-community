@@ -54,6 +54,7 @@ Add a first video testing
 
 ######Videos
 - [Android Development with Kotlin - Jake Wharton][22]
+- [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
 
 ###Series
 
@@ -126,6 +127,7 @@ You can find lots of video presentations here:
 [103]: http://saulmm.github.io/mastering-coordinator
 [104]: http://srodrigo.me/mvvm-with-data-binding-on-android/
 [105]: http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
+[106]: http://panavtec.me/continous-integration-on-android-with-travis-ci/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -135,6 +137,7 @@ You can find lots of video presentations here:
 [23]: https://www.youtube.com/watch?v=gs_C1E8HwvE
 [24]: https://www.youtube.com/watch?v=ssayKH0tudk
 [25]: https://www.youtube.com/watch?v=Nltqi7ODZTM
+[26]: https://www.youtube.com/watch?v=Hm37rWYdfv4
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html

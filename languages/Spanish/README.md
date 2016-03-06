@@ -108,6 +108,17 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 - [Saul Molinero][33]
 - [Pablo Guardiola][34]
 
+##Descubre
+
+###Blogs
+- [Android Developers blog][14]
+- [Android weekly][16]
+- [Material Doc][15]
+- [Antonio Leiva][17]
+- [Fernando Cejas][18]
+- [Saúl Molinero][19]
+- [Christian Panadero][20]
+
 ###License
 
 [tonilopezmr.github.io][0] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
@@ -121,6 +132,13 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [11]: http://www.materialdoc.es/patrones/
 [12]: http://androcode.es/2015/05/cuando-vs-dagger2-rxjava-retrofit-visto-desde-clean/
 [13]: http://devexperto.com/arquitectura-del-software/
+[14]: http://android-developers.blogspot.com.es/
+[15]: http://www.materialdoc.es
+[16]: http://androidweekly.net/
+[17]: http://antonioleiva.com/
+[18]: http://fernandocejas.com/
+[19]: http://saulmm.github.io/
+[20]: http://panavtec.me/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
