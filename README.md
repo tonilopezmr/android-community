@@ -102,6 +102,9 @@ You can find lots of video presentations here:
 - [Android Developers][3]
 - [DroidCon][30]
 
+###Libraries collection
+- [snowdream/awesome-android][8]
+- [Android Arsenal][80]
 
 ###License
 
@@ -164,3 +167,7 @@ You can find lots of video presentations here:
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
+
+[comment]: <Libraries> 
+[8]: https://github.com/snowdream/awesome-android
+[80]: http://android-arsenal.com/
