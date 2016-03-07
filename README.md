@@ -169,5 +169,5 @@ You can find lots of video presentations here:
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
 
 [comment]: <Libraries> 
-[8]: https://github.com/snowdream/awesome-android
+[8]: http://snowdream.github.io/awesome-android/
 [80]: http://android-arsenal.com/

@@ -118,7 +118,8 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 - [Antonio Leiva][17]
 - [Fernando Cejas][18]
 - [Saúl Molinero][19]
-- [Christian Panadero][20]
+- [Christian Panadero][101]
+- [devexperto.com][102]
 
 ###License
 
@@ -139,7 +140,8 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [17]: http://antonioleiva.com/
 [18]: http://fernandocejas.com/
 [19]: http://saulmm.github.io/
-[20]: http://panavtec.me/
+[101]: http://panavtec.me/
+[102]: http://devexperto.com/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
