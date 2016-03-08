@@ -6,16 +6,16 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 
 ###Resumen
 
-#####[Android UI](#android-ui)
-#####[CustomViews](#customviews)
-#####[Arquitectura](#arquitectura)
-#####[Patrones](#patrones)
-#####[Inyección de dependencias](#inyección-de-dpendencias)
-#####[Testing](#testing)
-#####[Kotlin](#kotlin)
-#####[Listas de reproducción](#listas-de-reproducción)
-#####[Series](#series)
-#####[Slides](#slides)
+#####[- Android UI](#android-ui)
+#####[- CustomViews](#customviews)
+#####[- Arquitectura](#arquitectura)
+#####[- Patrones](#patrones)
+#####[- Inyección de dependencias](#inyección-de-dpendencias)
+#####[- Testing](#testing)
+#####[- Kotlin](#kotlin)
+#####[- Listas de reproducción](#listas-de-reproducción)
+#####[- Series](#series)
+#####[- Slides](#slides)
 
 
 ###Android UI

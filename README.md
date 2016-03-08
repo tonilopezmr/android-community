@@ -8,14 +8,14 @@ Help me to create together the biggest collection of information about android c
 
 ###Summary
 
-#####[Android UI](#android-ui)
-#####[CustomViews](#customviews)
-#####[Architecture](#architecture)
-#####[Testing](#testing)
-#####[Kotlin](#kotlin)
-#####[Series](#series)
-#####[Slides](#slides)
-#####[Discover](#discover)
+#####[- Android UI](#android-ui)
+#####[- CustomViews](#customviews)
+#####[- Architecture](#architecture)
+#####[- Testing](#testing)
+#####[- Kotlin](#kotlin)
+#####[- Series](#series)
+#####[- Slides](#slides)
+#####[- Discover](#discover)
 
 
 ###Android UI
