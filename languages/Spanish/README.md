@@ -9,6 +9,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 #####[Android UI](#android-ui)
 #####[CustomViews](#customviews)
 #####[Arquitectura](#arquitectura)
+#####[Patrones](#patrones)
 #####[Inyección de dependencias](#inyección-de-dpendencias)
 #####[Testing](#testing)
 #####[Kotlin](#kotlin)
@@ -45,6 +46,14 @@ Añade el primer post
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
 - [Forgetting Android Jorge Barroso][22]
 - [GDG DevFest Córdoba 2015. Jorge Juan Barroso. Karumi. Persistiendo que es gerundio][26]
+
+###Patrones
+
+######Posts
+- [Patrones de diseño de software][103]
+
+######Videos
+- [Ponencia Software Design Patterns on Android - Tuenti][203]
 
 ###Inyección de dependencias
 
@@ -142,6 +151,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [19]: http://saulmm.github.io/
 [101]: http://panavtec.me/
 [102]: http://devexperto.com/
+[103]: http://devexperto.com/patrones-de-diseno-software/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
@@ -157,6 +167,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [29]: https://www.youtube.com/watch?v=ErA7mlpVryQ&list=PLiLJQ1Z3egaqC1abWSLmcNurOtfHwhKIf&index=20
 [201]: https://www.youtube.com/watch?v=ddkCIFu5O8s&list=PLiLJQ1Z3egaqC1abWSLmcNurOtfHwhKIf&index=23
 [202]: https://www.youtube.com/watch?v=3ncgYhcU6aQ
+[203]: https://www.youtube.com/watch?v=tt3zI9cKiWU
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations
