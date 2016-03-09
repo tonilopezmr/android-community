@@ -11,6 +11,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Android UI](#android-ui)
 #####[- CustomViews](#customviews)
 #####[- Architecture](#architecture)
+#####[- Dependency Injection](#dependency-injection)
 #####[- Testing](#testing)
 #####[- Kotlin](#kotlin)
 #####[- Series](#series)
@@ -37,6 +38,13 @@ Help me to create together the biggest collection of information about android c
 
 ######Videos
 - [Robert C Martin - Clean Architecture][25]
+
+######Dependency Injection
+
+######Post
+
+######Video
+- [Architecting Android Applications with Dagger - Jake Wharton][27]
 
 ###Testing 
 
@@ -92,6 +100,8 @@ You can find lots of video presentations here:
 - [Saúl Molinero][15]
 - [Christian Panadero][16]
 - [Chris Banes][18]
+- [The Droids on Roids][107]
+- [Karumi][108]
 
 ###Videos
 - [Android Developers][2]
@@ -131,6 +141,8 @@ You can find lots of video presentations here:
 [104]: http://srodrigo.me/mvvm-with-data-binding-on-android/
 [105]: http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
 [106]: http://panavtec.me/continous-integration-on-android-with-travis-ci/
+[107]: http://www.thedroidsonroids.com/blog/
+[108]: http://blog.karumi.com/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -141,6 +153,7 @@ You can find lots of video presentations here:
 [24]: https://www.youtube.com/watch?v=ssayKH0tudk
 [25]: https://www.youtube.com/watch?v=Nltqi7ODZTM
 [26]: https://www.youtube.com/watch?v=Hm37rWYdfv4
+[27]: https://www.parleys.com/tutorial/architecting-android-applications-dagger
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
