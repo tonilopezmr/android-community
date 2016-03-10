@@ -7,7 +7,7 @@ Help me to create together the biggest collection of information about android c
 - [Spanish Community][7]
 
 ###How to keep up to date
-- Click ![](/ext/watch.png)  :D
+- Click ![](/art/watch.png)  :D
 
 ###Summary
 
