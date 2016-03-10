@@ -2,11 +2,12 @@
 
 Collection of posts and videos android community.
 
-Help me to create together the biggest collection of information about android community.
+Help me to create together the biggest collection of information about android community, contribute now!!.
 
 - [Spanish Community][7]
 
-###How to 
+###How to keep up to date
+- Click ![](/ext/watch.png)  :D
 
 ###Summary
 
