@@ -6,6 +6,8 @@ Help me to create together the biggest collection of information about android c
 
 - [Spanish Community][7]
 
+###How to 
+
 ###Summary
 
 #####[- Android UI](#android-ui)
@@ -21,11 +23,12 @@ Help me to create together the biggest collection of information about android c
 
 ###Android UI
 
- - [Components][19]
- - [Patterns][101]
+- [Components][19]
+- [Patterns][101]
 
 ######Posts
 - [Mastering the Coordinator Layout][103]
+- [Fragment transitions with shared elements][109]
 
 ######Videos
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -143,6 +146,7 @@ You can find lots of video presentations here:
 [106]: http://panavtec.me/continous-integration-on-android-with-travis-ci/
 [107]: http://www.thedroidsonroids.com/blog/
 [108]: http://blog.karumi.com/
+[109]: https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.iirp2gf34
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
