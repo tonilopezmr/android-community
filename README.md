@@ -57,7 +57,7 @@ Help me to create together the biggest collection of information about android c
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
 
 ######Videos
-Add a first video testing
+- [Let's Play: Test-Driven Development (TDD series)][28]
 
 ###Kotlin
 
@@ -161,6 +161,7 @@ You can find lots of video presentations here:
 [25]: https://www.youtube.com/watch?v=Nltqi7ODZTM
 [26]: https://www.youtube.com/watch?v=Hm37rWYdfv4
 [27]: https://www.parleys.com/tutorial/architecting-android-applications-dagger
+[28]: https://www.youtube.com/playlist?list=PL0CCC6BD6AFF097B1
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
