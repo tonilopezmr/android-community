@@ -39,6 +39,7 @@ Help me to create together the biggest collection of information about android c
 ######Posts
 - [MVVM with Data Binding on Android][104]
 - [The Clean Architecture by Uncle Bob][105]
+- [Architecting Android... The clean way? - Fernando Cejas][110]
 
 ######Videos
 - [Robert C Martin - Clean Architecture][25]
@@ -148,6 +149,7 @@ You can find lots of video presentations here:
 [107]: http://www.thedroidsonroids.com/blog/
 [108]: http://blog.karumi.com/
 [109]: https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.iirp2gf34
+[110]: http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
