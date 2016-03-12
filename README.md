@@ -16,6 +16,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Architecture](#architecture)
 #####[- Dependency Injection](#dependency-injection)
 #####[- Testing](#testing)
+#####[- Debugging](#debugging)
 #####[- Kotlin](#kotlin)
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -58,6 +59,14 @@ Help me to create together the biggest collection of information about android c
 
 ######Videos
 - [Let's Play: Test-Driven Development (TDD series)][28]
+
+###Debugging
+
+######Posts
+- [Tips on debugging Android apps][111]
+
+######Videos
+Add the first video
 
 ###Kotlin
 
@@ -150,6 +159,7 @@ You can find lots of video presentations here:
 [108]: http://blog.karumi.com/
 [109]: https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.iirp2gf34
 [110]: http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
+[111]: https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.p
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
