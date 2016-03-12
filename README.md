@@ -31,6 +31,7 @@ Help me to create together the biggest collection of information about android c
 ######Posts
 - [Mastering the Coordinator Layout][103]
 - [Fragment transitions with shared elements][109]
+- [Developing like a pro - portrait only apps - novoda][112]
 
 ######Videos
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -59,6 +60,7 @@ Help me to create together the biggest collection of information about android c
 
 ######Videos
 - [Let's Play: Test-Driven Development (TDD series)][28]
+- [Testing and Refactoring Legacy Code][29]
 
 ###Debugging
 
@@ -116,6 +118,7 @@ You can find lots of video presentations here:
 - [Chris Banes][18]
 - [The Droids on Roids][107]
 - [Karumi][108]
+- [Novoda][113]
 
 ###Videos
 - [Android Developers][2]
@@ -160,6 +163,8 @@ You can find lots of video presentations here:
 [109]: https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.iirp2gf34
 [110]: http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
 [111]: https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.p
+[112]: https://www.novoda.com/blog/portrait-only-apps/
+[113]: https://www.novoda.com/blog/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -172,6 +177,7 @@ You can find lots of video presentations here:
 [26]: https://www.youtube.com/watch?v=Hm37rWYdfv4
 [27]: https://www.parleys.com/tutorial/architecting-android-applications-dagger
 [28]: https://www.youtube.com/playlist?list=PL0CCC6BD6AFF097B1
+[29]: https://www.youtube.com/watch?v=_NnElPO5BU0
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
