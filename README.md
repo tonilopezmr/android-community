@@ -119,6 +119,7 @@ You can find lots of video presentations here:
 - [The Droids on Roids][107]
 - [Karumi][108]
 - [Novoda][113]
+- [John Petitto][114]
 
 ###Videos
 - [Android Developers][2]
@@ -165,6 +166,7 @@ You can find lots of video presentations here:
 [111]: https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.p
 [112]: https://www.novoda.com/blog/portrait-only-apps/
 [113]: https://www.novoda.com/blog/
+[114]: http://johnpetitto.com/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
