@@ -18,6 +18,8 @@ Help me to create together the biggest collection of information about android c
 #####[- Testing](#testing)
 #####[- Debugging](#debugging)
 #####[- Kotlin](#kotlin)
+#####[- Reactive](#reactive)
+
 #####[- Series](#series)
 #####[- Slides](#slides)
 #####[- Discover](#discover)
@@ -80,6 +82,16 @@ Add the first video
 - [Android Development with Kotlin - Jake Wharton][22]
 - [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
 
+###Reactive
+
+######Posts
+- [RxJava's repeatWhen and retryWhen, explained - Dan Lew][115]
+- [Error handling in RxJava - Dan Lew][116]
+- [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
+
+######Videos
+Add the first video
+
 ###Series
 
 - World-Class Testing Development Pipeline for Android - [Karumi][60]
@@ -96,12 +108,18 @@ Add the first video
 	- [Architecture][55]
 	- [UI][56]
 	- [Compatibility][57]
+- Grokking RxJava - [Dan Lew][62]
+	- [Part 1: The Basics][58]
+	- [Part 2: Operator, Operator][59]
+	- [Part 3: Reactive with Benefits][501]
+	- [Part 4: Reactive Android][502]
 
 ###Slides
 
 You can find lots of video presentations here:
 
 - [Jake Wharton][4]
+- [Fernando Cejas][40]
 
 ##Discover
 
@@ -167,6 +185,9 @@ You can find lots of video presentations here:
 [112]: https://www.novoda.com/blog/portrait-only-apps/
 [113]: https://www.novoda.com/blog/
 [114]: http://johnpetitto.com/
+[115]: http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
+[116]: http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/
+[117]: http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -187,6 +208,7 @@ You can find lots of video presentations here:
 
 [comment]: <Slides> 
 [4]: https://speakerdeck.com/jakewharton
+[40]: https://speakerdeck.com/android10
 
 [comment]: <Series> 
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/
@@ -198,11 +220,16 @@ You can find lots of video presentations here:
 [55]: http://saulmm.github.io/2015/02/02/A-useful-stack-on-android-1,-architecture/
 [56]: http://saulmm.github.io/a-useful-stack-on-android-2-user-interface
 [57]: http://saulmm.github.io/a-useful-stack-on-android-3-compatibility
+[58]: http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
+[59]: http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/
+[501]: http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/
+[502]: http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
 [60]: https://twitter.com/goKarumi
 [61]: https://twitter.com/_saulmm   
+[62]: https://twitter.com/danlew42
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
