@@ -34,6 +34,7 @@ Help me to create together the biggest collection of information about android c
 - [Mastering the Coordinator Layout][103]
 - [Fragment transitions with shared elements][109]
 - [Developing like a pro - portrait only apps - novoda][112]
+- [Optimizing Layouts in Android – Reducing Overdraw][118]
 
 ######Videos
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -189,6 +190,7 @@ You can find lots of video presentations here:
 [115]: http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
 [116]: http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/
 [117]: http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/
+[118]: http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw/?utm_content=buffer01ddb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
