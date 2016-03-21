@@ -19,6 +19,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Debugging](#debugging)
 #####[- Kotlin](#kotlin)
 #####[- Reactive](#reactive)
+#####[- Android Studio][#android-studio]
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -90,6 +91,15 @@ Add the first video
 - [RxJava's repeatWhen and retryWhen, explained - Dan Lew][115]
 - [Error handling in RxJava - Dan Lew][116]
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
+
+######Videos
+Add the first video
+
+###Android Studio
+- [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
+
+######Posts
+
 
 ######Videos
 Add the first video
@@ -193,6 +203,7 @@ You can find lots of video presentations here:
 [117]: http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/
 [118]: http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw/?utm_content=buffer01ddb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 [119]: https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.o1a5wfpz7
+[120]: https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.462vs0150
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
