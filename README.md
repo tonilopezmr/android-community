@@ -19,7 +19,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Debugging](#debugging)
 #####[- Kotlin](#kotlin)
 #####[- Reactive](#reactive)
-#####[- Android Studio][#android-studio]
+#####[- Android Studio](#android-studio)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
