@@ -6,7 +6,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 
 ###Resumen
 
-#####[- Android UI](#android-ui)
+#####[- Material Design](#material-design)
 #####[- CustomViews](#customviews)
 #####[- Arquitectura](#arquitectura)
 #####[- Patrones](#patrones)
@@ -18,11 +18,15 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 #####[- Slides](#slides)
 
 
-###Android UI
+###Material Design
 
+######Posts
  - [Componentes][1]
  - [Animaciones][10]
  - [Patrones][11]
+
+######Videos
+- [#MADG Materialize your App with Design Support Library][204]
 
 ###CustomViews
 
@@ -168,6 +172,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [201]: https://www.youtube.com/watch?v=ddkCIFu5O8s&list=PLiLJQ1Z3egaqC1abWSLmcNurOtfHwhKIf&index=23
 [202]: https://www.youtube.com/watch?v=3ncgYhcU6aQ
 [203]: https://www.youtube.com/watch?v=tt3zI9cKiWU
+[204]: https://www.youtube.com/watch?v=pzRRaZaRS7c&feature=youtu.be
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations
