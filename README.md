@@ -96,10 +96,9 @@ Add the first video
 Add the first video
 
 ###Android Studio
-- [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 
 ######Posts
-
+- [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 
 ######Videos
 Add the first video
