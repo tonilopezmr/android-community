@@ -76,6 +76,7 @@ Add the first video
 ###Kotlin
 
 ######Posts
+- [Keddit — Intro: Learn Kotlin while developing and Android App][119]
 - [Functional operations over Views in ViewGroup using Kotlin][102]
 - [Building a Kotlin project - Ciro Rizzo](#series)
 
@@ -191,6 +192,7 @@ You can find lots of video presentations here:
 [116]: http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/
 [117]: http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/
 [118]: http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw/?utm_content=buffer01ddb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[119]: https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.o1a5wfpz7
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
