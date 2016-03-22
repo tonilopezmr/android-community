@@ -40,6 +40,16 @@ Help me to create together the biggest collection of information about android c
 ######Videos
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
 
+###CustomViews
+
+######Posts
+- [Creating custom and compound Views in Android - Tutorial][121]
+- [Android layouts to the next level: Custom Views, Compound ViewGroups and Custom ViewGroups][122]
+- [Custom Layouts on Android][123]
+
+######Videos
+Add the first video
+
 ###Architecture
 
 ######Posts
@@ -203,6 +213,9 @@ You can find lots of video presentations here:
 [118]: http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw/?utm_content=buffer01ddb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 [119]: https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.o1a5wfpz7
 [120]: https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.462vs0150
+[121]: http://www.vogella.com/tutorials/AndroidCustomViews/article.html
+[122]: https://medium.com/@Shyish/android-layouts-to-the-next-level-custom-views-compound-viewgroups-and-custom-viewgroups-7a6c3962358d#.c52o0qo3v
+[123]: http://lucasr.org/2014/05/12/custom-layouts-on-android/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
