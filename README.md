@@ -60,9 +60,11 @@ Add the first video
 ######Videos
 - [Robert C Martin - Clean Architecture][25]
 
-######Dependency Injection
+###Dependency Injection
 
 ######Post
+- [Tasting Dagger 2 on Android][124]
+- [Dagger 2: Even sharper, less square][125]
 
 ######Video
 - [Architecting Android Applications with Dagger - Jake Wharton][27]
@@ -142,6 +144,7 @@ You can find lots of video presentations here:
 
 - [Jake Wharton][4]
 - [Fernando Cejas][40]
+- [Cyril Mottier][41]
 
 ##Discover
 
@@ -216,6 +219,8 @@ You can find lots of video presentations here:
 [121]: http://www.vogella.com/tutorials/AndroidCustomViews/article.html
 [122]: https://medium.com/@Shyish/android-layouts-to-the-next-level-custom-views-compound-viewgroups-and-custom-viewgroups-7a6c3962358d#.c52o0qo3v
 [123]: http://lucasr.org/2014/05/12/custom-layouts-on-android/
+[124]: http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
+[125]: https://blog.gouline.net/2015/05/04/dagger-2-even-sharper-less-square/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -237,6 +242,7 @@ You can find lots of video presentations here:
 [comment]: <Slides> 
 [4]: https://speakerdeck.com/jakewharton
 [40]: https://speakerdeck.com/android10
+[41]: https://speakerdeck.com/cyrilmottier
 
 [comment]: <Series> 
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/

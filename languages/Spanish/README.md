@@ -10,7 +10,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 #####[- CustomViews](#customviews)
 #####[- Arquitectura](#arquitectura)
 #####[- Patrones](#patrones)
-#####[- Inyección de dependencias](#inyección-de-dpendencias)
+#####[- Inyección de dependencias](#inyección-de-dependencias)
 #####[- Testing](#testing)
 #####[- Kotlin](#kotlin)
 #####[- Listas de reproducción](#listas-de-reproducción)
