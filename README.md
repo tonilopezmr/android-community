@@ -107,7 +107,7 @@ Add the first video
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
 
 ######Videos
-Add the first video
+- [Functional Reactive Programming in Java - Juan Gomez][201]
 
 ###Android Studio
 
@@ -250,6 +250,7 @@ You can find lots of video presentations here:
 [27]: https://www.parleys.com/tutorial/architecting-android-applications-dagger
 [28]: https://www.youtube.com/playlist?list=PL0CCC6BD6AFF097B1
 [29]: https://www.youtube.com/watch?v=_NnElPO5BU0
+[201]: https://realm.io/news/droidcon-gomez-functional-reactive-programming/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
