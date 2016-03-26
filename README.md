@@ -20,6 +20,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Kotlin](#kotlin)
 #####[- Reactive](#reactive)
 #####[- Android Studio](#android-studio)
+#####[- Gradle](#gradle)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -36,6 +37,7 @@ Help me to create together the biggest collection of information about android c
 - [Fragment transitions with shared elements][109]
 - [Developing like a pro - portrait only apps - novoda][112]
 - [Optimizing Layouts in Android – Reducing Overdraw][118]
+- [Retain & restore recycler view scroll position][127]
 
 ######Videos
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -115,6 +117,17 @@ Add the first video
 ######Videos
 Add the first video
 
+###Gradle
+
+######Posts
+- [How to install different app variants on one Android device][126]
+
+
+######Videos
+Add the first video
+
+
+
 ###Series
 
 - World-Class Testing Development Pipeline for Android - [Karumi][60]
@@ -145,6 +158,7 @@ You can find lots of video presentations here:
 - [Jake Wharton][4]
 - [Fernando Cejas][40]
 - [Cyril Mottier][41]
+- [Jon Reeve][42]
 
 ##Discover
 
@@ -221,6 +235,8 @@ You can find lots of video presentations here:
 [123]: http://lucasr.org/2014/05/12/custom-layouts-on-android/
 [124]: http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
 [125]: https://blog.gouline.net/2015/05/04/dagger-2-even-sharper-less-square/
+[126]: https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/
+[127]: http://panavtec.me/retain-restore-recycler-view-scroll-position/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -243,6 +259,7 @@ You can find lots of video presentations here:
 [4]: https://speakerdeck.com/jakewharton
 [40]: https://speakerdeck.com/android10
 [41]: https://speakerdeck.com/cyrilmottier
+[42]: https://speakerdeck.com/jonreeve
 
 [comment]: <Series> 
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/
