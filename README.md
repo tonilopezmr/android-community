@@ -113,6 +113,7 @@ Add the first video
 
 ######Posts
 - [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
+- [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
 
 ######Videos
 Add the first video
@@ -150,6 +151,15 @@ Add the first video
 	- [Part 2: Operator, Operator][59]
 	- [Part 3: Reactive with Benefits][501]
 	- [Part 4: Reactive Android][502]
+
+- Welcome to my very own Android Studio protip series - [Sebastiano Poggi][63] (Not finished)
+	- [Clear the app data quickly][128]
+	- [Analysing a stack trace][129]
+	- [Analyse data flows without the debugger][130]
+	- [Use custom debug viewers for your data][131]
+	- Use tasks to bring the stories to you //TODO
+	- Share the settings with the whole team //TODO
+	- Quickly change tokens casing with search and shortcuts //TODO
 
 ###Slides
 
@@ -237,6 +247,10 @@ You can find lots of video presentations here:
 [125]: https://blog.gouline.net/2015/05/04/dagger-2-even-sharper-less-square/
 [126]: https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/
 [127]: http://panavtec.me/retain-restore-recycler-view-scroll-position/
+[128]: https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.y9niko8rg
+[129]: https://medium.com/sebs-top-tips/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.os0j18pbm
+[130]: https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.7q9uc7w3v
+[131]: https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2#.t1vdawxss
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -282,6 +296,7 @@ You can find lots of video presentations here:
 [60]: https://twitter.com/goKarumi
 [61]: https://twitter.com/_saulmm   
 [62]: https://twitter.com/danlew42
+[63]: https://twitter.com/seebrock3r
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
