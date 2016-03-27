@@ -94,6 +94,7 @@ Add the first video
 - [Keddit — Intro: Learn Kotlin while developing and Android App][119]
 - [Functional operations over Views in ViewGroup using Kotlin][102]
 - [Building a Kotlin project - Ciro Rizzo](#series)
+- [Using Kotlin For Tests in Android][132]
 
 ######Videos
 - [Android Development with Kotlin - Jake Wharton][22]
@@ -251,6 +252,7 @@ You can find lots of video presentations here:
 [129]: https://medium.com/sebs-top-tips/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.os0j18pbm
 [130]: https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.7q9uc7w3v
 [131]: https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2#.t1vdawxss
+[132]: https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.fzdkiccwa
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
