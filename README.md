@@ -31,6 +31,7 @@ Help me to create together the biggest collection of information about android c
 
 - [Components][19]
 - [Patterns][101]
+- [AppCompat v23.2 — Age of the vectors][133]
 
 ######Posts
 - [Mastering the Coordinator Layout][103]
@@ -253,6 +254,7 @@ You can find lots of video presentations here:
 [130]: https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.7q9uc7w3v
 [131]: https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2#.t1vdawxss
 [132]: https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.fzdkiccwa
+[133]: http://chris.banes.me/2016/02/25/appcompat-vector/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
