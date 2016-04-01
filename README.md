@@ -76,6 +76,7 @@ Add the first video
 
 ######Posts
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
+- [NAMING TEST CLASSES AND METHODS][134]
 
 ######Videos
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -255,6 +256,7 @@ You can find lots of video presentations here:
 [131]: https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2#.t1vdawxss
 [132]: https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.fzdkiccwa
 [133]: http://chris.banes.me/2016/02/25/appcompat-vector/
+[134]: http://codurance.com/2014/12/13/naming-test-classes-and-methods/#fn:1
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
