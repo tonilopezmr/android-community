@@ -1,6 +1,6 @@
 #Android-Community
 
-Colección de posts y videos de la comunidad android en español.
+Colección de posts y Presentaciones de la comunidad android en español.
 
 Ayúdame a crear juntos la mayor colección de información acerca de la comunidad de android.
 
@@ -26,7 +26,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
  - [Animaciones][10]
  - [Patrones][11]
 
-######Videos
+######Presentaciones
 - [#MADG Materialize your App with Design Support Library][204]
 
 ###CustomViews
@@ -34,7 +34,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 ######Posts
 Añade el primer post
 
-######Videos
+######Presentaciones
 - [GDG DevFest Córdoba 2015. Track 1. Jorge Castillo. Jobandtalent. Android drawing & Graphics API][23]
 - [Saul Molinero - Design & be reactive on Android with Iron Man in a clean way][29]
 
@@ -45,7 +45,7 @@ Añade el primer post
 - [Arquitectura del software y sus beneficios por Christian Panadero][13]
 
 
-######Videos
+######Presentaciones
 - [Karumi Clean Architecture][2] 
 - [GDG Mallorca TekTalk3 - Limpiando espero la arquitectura que yo quiero][20]
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
@@ -58,7 +58,7 @@ Añade el primer post
 ######Posts
 - [Patrones de diseño de software][103]
 
-######Videos
+######Presentaciones
 - [Ponencia Software Design Patterns on Android - Tuenti][203]
 
 ###Inyección de dependencias
@@ -66,7 +66,7 @@ Añade el primer post
 ######Posts
 Añade el primer post
 
-######Videos
+######Presentaciones
 - [GDG DevFest Córdoba 2015. Pedro Vicente Gómez. Karumi. Dependency Injection on Android][25]	
 
 ###Testing 
@@ -74,7 +74,7 @@ Añade el primer post
 ######Posts
 Añade el primer post
 
-######Videos
+######Presentaciones
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 - [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][210]
@@ -84,7 +84,7 @@ Añade el primer post
 ######Posts
 Añade el primer post
 
-######Videos
+######Presentaciones
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
 - [Kotlin for Android Developers (Codemotion Madrid 2015)][28]
 
@@ -125,7 +125,7 @@ Añade el primer post
 
 ###Slides
 
-Puedes encontrar muchas de las slides de los videos por aquí.
+Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 
 - [Pedro Vicente Gómez Sánchez][3]
 - [Jorge Barroso][30]
@@ -169,7 +169,7 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [102]: http://devexperto.com/
 [103]: http://devexperto.com/patrones-de-diseno-software/
 
-[comment]: <Videos> 
+[comment]: <Presentaciones> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
 [20]: https://www.youtube.com/watch?v=AIMjPmvI91M
 [21]: https://www.youtube.com/watch?v=hMJm66Bm54c

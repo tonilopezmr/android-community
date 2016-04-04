@@ -1,6 +1,6 @@
 #Android-Community
 
-Collection of posts and videos android community.
+Collection of posts and Talks android community.
 
 Help me to create together the biggest collection of information about android community, contribute now!!.
 
@@ -41,7 +41,7 @@ Help me to create together the biggest collection of information about android c
 - [Optimizing Layouts in Android – Reducing Overdraw][118]
 - [Retain & restore recycler view scroll position][127]
 
-######Videos
+######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
 
 ###CustomViews
@@ -51,7 +51,7 @@ Help me to create together the biggest collection of information about android c
 - [Android layouts to the next level: Custom Views, Compound ViewGroups and Custom ViewGroups][122]
 - [Custom Layouts on Android][123]
 
-######Videos
+######Talks
 Add the first video
 
 ###Architecture
@@ -61,7 +61,7 @@ Add the first video
 - [The Clean Architecture by Uncle Bob][105]
 - [Architecting Android... The clean way? - Fernando Cejas][110]
 
-######Videos
+######Talks
 - [Robert C Martin - Clean Architecture][25]
 
 ###Dependency Injection
@@ -79,7 +79,7 @@ Add the first video
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
 - [NAMING TEST CLASSES AND METHODS][134]
 
-######Videos
+######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
 
@@ -88,7 +88,7 @@ Add the first video
 ######Posts
 - [Tips on debugging Android apps][111]
 
-######Videos
+######Talks
 Add the first video
 
 ###Kotlin
@@ -99,7 +99,7 @@ Add the first video
 - [Building a Kotlin project - Ciro Rizzo](#series)
 - [Using Kotlin For Tests in Android][132]
 
-######Videos
+######Talks
 - [Android Development with Kotlin - Jake Wharton][22]
 - [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
 
@@ -110,7 +110,7 @@ Add the first video
 - [Error handling in RxJava - Dan Lew][116]
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
 
-######Videos
+######Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
 
 ###Android Studio
@@ -119,7 +119,7 @@ Add the first video
 - [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 - [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
 
-######Videos
+######Talks
 Add the first video
 
 ###Gradle
@@ -128,7 +128,7 @@ Add the first video
 - [How to install different app variants on one Android device][126]
 
 
-######Videos
+######Talks
 Add the first video
 
 ###Storage
@@ -137,7 +137,7 @@ Add the first video
 - [Designing a Database: Realm Threading Deep Dive][135]
 
 
-######Videos
+######Talks
 Add the first video
 
 
@@ -201,7 +201,7 @@ You can find lots of video presentations here:
 - [Novoda][113]
 - [John Petitto][114]
 
-###Videos
+###Talks
 - [Android Developers][2]
 - [Droidcon NYC 2015][20]
 - [Jake Wharton Presentations][21]
@@ -269,7 +269,7 @@ You can find lots of video presentations here:
 [134]: http://codurance.com/2014/12/13/naming-test-classes-and-methods/#fn:1
 [135]: https://realm.io/news/threading-deep-dive/
 
-[comment]: <Videos> 
+[comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
 [20]: https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
 [21]: https://www.youtube.com/playlist?list=PLlIuwjGRHc4sQfRzHQnie13gi9BbEVSzh
