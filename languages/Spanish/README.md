@@ -16,6 +16,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 #####[- Listas de reproducción](#listas-de-reproducción)
 #####[- Series](#series)
 #####[- Slides](#slides)
+#####[- Developers](#developers)
 
 
 ###Material Design
@@ -50,6 +51,7 @@ Añade el primer post
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
 - [Forgetting Android Jorge Barroso][22]
 - [GDG DevFest Córdoba 2015. Jorge Juan Barroso. Karumi. Persistiendo que es gerundio][26]
+- [My way to clean architecture - Christian Panadero - Android Day Salamanca 2015][211]
 
 ###Patrones
 
@@ -75,6 +77,7 @@ Añade el primer post
 ######Videos
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
+- [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][210]
 
 ###Kotlin
 
@@ -84,6 +87,15 @@ Añade el primer post
 ######Videos
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
 - [Kotlin for Android Developers (Codemotion Madrid 2015)][28]
+
+###Jorge Barroso
+
+- [Forgetting Android][205]
+- [AndroidStartup 12/07/2012 Reunión - Galleta - Charla sobre Arquitectura de Tuenti][206]
+- [KITT I need you buddy. Señores que le hablan a la muñeca][207]
+- [Testing with Jorge Juan Barroso Carmona][208]
+- [Material Design for Old Scoolers - Jorge Barroso - Android Day Salamanca 2015][209]
+- [Ciclo de una idea en Android][210]
 
 ###Listas de reproducción
 - [GDG DevFest Córdoba 2015][24]
@@ -173,6 +185,14 @@ Puedes encontrar muchas de las slides de los videos por aquí.
 [202]: https://www.youtube.com/watch?v=3ncgYhcU6aQ
 [203]: https://www.youtube.com/watch?v=tt3zI9cKiWU
 [204]: https://www.youtube.com/watch?v=pzRRaZaRS7c&feature=youtu.be
+[205]: https://www.youtube.com/watch?v=ROdIvrLL1ao
+[206]: https://www.youtube.com/watch?v=A3Odtji0bCc
+[207]: https://www.youtube.com/watch?v=eppEQIRO_Pk
+[208]: https://www.youtube.com/watch?v=vlorWIlPgY0
+[209]: https://www.youtube.com/watch?v=yQcMJd-gL8A
+[210]: https://www.youtube.com/watch?v=R94LZ3Eda4s
+[211]: https://www.youtube.com/watch?v=lOEOK3UvmJM
+[212]: https://www.youtube.com/watch?v=Y7Mmb9uFvpk
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations

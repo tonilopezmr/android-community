@@ -21,6 +21,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Reactive](#reactive)
 #####[- Android Studio](#android-studio)
 #####[- Gradle](#gradle)
+#####[- Storage](#storage)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -125,6 +126,15 @@ Add the first video
 
 ######Posts
 - [How to install different app variants on one Android device][126]
+
+
+######Videos
+Add the first video
+
+###Storage
+
+######Posts
+- [Designing a Database: Realm Threading Deep Dive][135]
 
 
 ######Videos
@@ -257,6 +267,7 @@ You can find lots of video presentations here:
 [132]: https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.fzdkiccwa
 [133]: http://chris.banes.me/2016/02/25/appcompat-vector/
 [134]: http://codurance.com/2014/12/13/naming-test-classes-and-methods/#fn:1
+[135]: https://realm.io/news/threading-deep-dive/
 
 [comment]: <Videos> 
 [2]: https://www.youtube.com/user/androiddevelopers
