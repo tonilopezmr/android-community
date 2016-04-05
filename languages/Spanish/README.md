@@ -16,7 +16,7 @@ Ayúdame a crear juntos la mayor colección de información acerca de la comunid
 #####[- Listas de reproducción](#listas-de-reproducción)
 #####[- Series](#series)
 #####[- Slides](#slides)
-#####[- Developers](#developers)
+#####[- Jorge Barroso](#jorge-barroso)
 
 
 ###Material Design
