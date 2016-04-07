@@ -43,6 +43,7 @@ Añade el primer post
 ######Posts
 - [‘Avengers’ vs Dagger2, RxJava & Retrofit visto desde ‘Clean’ por Saul Molinero][12]
 - [Arquitectura del software y sus beneficios por Christian Panadero][13]
+- [S is for Single Responsibility Principle][104]
 
 
 ######Presentaciones
@@ -82,7 +83,7 @@ Añade el primer post
 ###Kotlin
 
 ######Posts
-Añade el primer post
+- [Kotlin, the somewhat obscure modern Android-friendly programming language][105]
 
 ######Presentaciones
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
@@ -133,6 +134,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 - [Jorge Castillo Pérez][32]
 - [Saul Molinero][33]
 - [Pablo Guardiola][34]
+- [César][35]
 
 ##Descubre
 
@@ -168,6 +170,8 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [101]: http://panavtec.me/
 [102]: http://devexperto.com/
 [103]: http://devexperto.com/patrones-de-diseno-software/
+[104]: https://realm.io/news/donn-felker-solid-part-1/
+[105]: https://medium.com/math-camp-engineering/kotlin-3e963864db9e#.q1fne9r0e
 
 [comment]: <Presentaciones> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA
@@ -201,6 +205,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [32]: http://www.slideshare.net/JorgeCastilloPrez/presentations
 [33]: https://speakerdeck.com/saulmm
 [34]: https://speakerdeck.com/guardiola31337
+[35]: https://speakerdeck.com/cesards
 
 [comment]: <Series> 
 [4]: http://androcode.es/2015/02/un-stack-productivo-para-el-desarrollador-android-1-arquitectura/
