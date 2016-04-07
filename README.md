@@ -43,6 +43,7 @@ Help me to create together the biggest collection of information about android c
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
+- [Droidcon SF 2016 - Mastering CoordinatorLayout Behaviors][204]
 
 ###CustomViews
 
@@ -63,6 +64,7 @@ Add the first video
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
+- [Droidcon SF - Application Architecture: Designing Offline Application Case Studies][203]
 
 ###Dependency Injection
 
@@ -205,6 +207,7 @@ You can find lots of video presentations here:
 - [Android Developers][2]
 - [Droidcon NYC 2015][20]
 - [Jake Wharton Presentations][21]
+- [Droidcon SF 2016][202]
 
 ###Communities and events
 - [Android Developers][3]
@@ -282,6 +285,9 @@ You can find lots of video presentations here:
 [28]: https://www.youtube.com/playlist?list=PL0CCC6BD6AFF097B1
 [29]: https://www.youtube.com/watch?v=_NnElPO5BU0
 [201]: https://realm.io/news/droidcon-gomez-functional-reactive-programming/
+[202]: https://www.youtube.com/playlist?list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn
+[203]: https://www.youtube.com/watch?v=n8nG5K_3BJM
+[204]: https://www.youtube.com/watch?v=22tSgne3ffw
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
