@@ -5,6 +5,7 @@ Collection of posts and Talks android community.
 Help me to create together the biggest collection of information about android community, contribute now!!.
 
 - [Spanish Community][7]
+- [Italian Community][70]
 
 ###How to keep up to date
 - Click ![](/art/watch.png)  :D
@@ -323,6 +324,7 @@ You can find lots of video presentations here:
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
+[70]: https://github.com/tonilopezmr/android-community/blob/master/languages/Italian/README.md
 
 [comment]: <Libraries> 
 [8]: http://snowdream.github.io/awesome-android/
