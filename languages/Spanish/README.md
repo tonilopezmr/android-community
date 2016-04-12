@@ -73,7 +73,7 @@ Añade el primer post
 ###Testing 
 
 ######Posts
-Añade el primer post
+- [Desmitificando los dobles de test: Mocks, stubs and friends][106]
 
 ######Presentaciones
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
@@ -172,6 +172,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [103]: http://devexperto.com/patrones-de-diseno-software/
 [104]: https://realm.io/news/donn-felker-solid-part-1/
 [105]: https://medium.com/math-camp-engineering/kotlin-3e963864db9e#.q1fne9r0e
+[106]: http://www.genbetadev.com/javascript/desmitificando-los-dobles-de-test-mocks-stubs-and-friends?from=mobile&utm_content=buffer99110&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 [comment]: <Presentaciones> 
 [2]: https://www.youtube.com/watch?v=31lWMsCeoSA

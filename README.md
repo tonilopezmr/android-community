@@ -173,8 +173,8 @@ Add the first video
 	- [Analysing a stack trace][129]
 	- [Analyse data flows without the debugger][130]
 	- [Use custom debug viewers for your data][131]
-	- Use tasks to bring the stories to you //TODO
-	- Share the settings with the whole team //TODO
+	- [Use tasks to bring the stories to you][136]
+	- [Share the settings with the whole team][137]
 	- Quickly change tokens casing with search and shortcuts //TODO
 
 ###Slides
@@ -272,6 +272,8 @@ You can find lots of video presentations here:
 [133]: http://chris.banes.me/2016/02/25/appcompat-vector/
 [134]: http://codurance.com/2014/12/13/naming-test-classes-and-methods/#fn:1
 [135]: https://realm.io/news/threading-deep-dive/
+[136]: https://medium.com/sebs-top-tips/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0#.wu513jqkj
+[137]: https://medium.com/sebs-top-tips/share-the-settings-with-the-whole-team-android-studio-protip-6-3cce16eb2ea4#.crrlawa3a
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
