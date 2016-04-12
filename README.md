@@ -1,6 +1,6 @@
 #Android-Community
 
-Collection of posts and Talks android community.
+Collection of Posts and Talks Android Community.
 
 Help me to create together the biggest collection of information about android community, contribute now!!.
 

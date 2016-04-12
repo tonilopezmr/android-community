@@ -1,6 +1,6 @@
 #Android-Community
 
-Colección de posts y Presentaciones de la comunidad android en español.
+Colección de posts y presentaciones de la comunidad Android en Español.
 
 Ayúdame a crear juntos la mayor colección de información acerca de la comunidad de android.
 
