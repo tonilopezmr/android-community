@@ -177,6 +177,13 @@ Add the first video
 	- [Share the settings with the whole team][137]
 	- Quickly change tokens casing with search and shortcuts //TODO
 
+- SOLID Principles for Android Developers, a series by [Donn Felker][64]	
+	- [Single Responsibility Principle][503]
+	- [Open-Closed Principle][504]
+	- Liskov Substitution Principle //TODO
+	- Interface Segregation Principle //TODO
+	- Dependency Inversion Principle //TODO
+
 ###Slides
 
 You can find lots of video presentations here:
@@ -316,6 +323,8 @@ You can find lots of video presentations here:
 [59]: http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/
 [501]: http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/
 [502]: http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/
+[503]: https://realm.io/news/donn-felker-solid-part-1/
+[504]: https://realm.io/news/donn-felker-solid-part-2/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
@@ -323,6 +332,7 @@ You can find lots of video presentations here:
 [61]: https://twitter.com/_saulmm   
 [62]: https://twitter.com/danlew42
 [63]: https://twitter.com/seebrock3r
+[64]: https://twitter.com/donnfelker
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
