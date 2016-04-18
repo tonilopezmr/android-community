@@ -184,6 +184,9 @@ Add the first video
 	- Interface Segregation Principle //TODO
 	- Dependency Inversion Principle //TODO
 
+- Approaching Outside-in TDD on Android by [Carlos Morera][65] and [Christian Panadero][66]
+	- [Part 1][505]
+
 ###Slides
 
 You can find lots of video presentations here:
@@ -325,6 +328,7 @@ You can find lots of video presentations here:
 [502]: http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/
 [503]: https://realm.io/news/donn-felker-solid-part-1/
 [504]: https://realm.io/news/donn-felker-solid-part-2/
+[505]: http://panavtec.me/approaching-tdd-outside-android
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
@@ -333,6 +337,8 @@ You can find lots of video presentations here:
 [62]: https://twitter.com/danlew42
 [63]: https://twitter.com/seebrock3r
 [64]: https://twitter.com/donnfelker
+[65]: https://twitter.com/CarlosMChica
+[66]: https://twitter.com/panavtec
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
