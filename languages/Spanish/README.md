@@ -135,6 +135,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 - [Saul Molinero][33]
 - [Pablo Guardiola][34]
 - [César][35]
+- [Serchinastico][36]
 
 ##Descubre
 
@@ -207,6 +208,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [33]: https://speakerdeck.com/saulmm
 [34]: https://speakerdeck.com/guardiola31337
 [35]: https://speakerdeck.com/cesards
+[36]: https://speakerdeck.com/serchinastico
 
 [comment]: <Series> 
 [4]: http://androcode.es/2015/02/un-stack-productivo-para-el-desarrollador-android-1-arquitectura/
