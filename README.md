@@ -86,6 +86,7 @@ Add the first video
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
+- [Unit Testing RxJava Observables][139]
 
 ###Debugging
 
@@ -286,6 +287,7 @@ You can find lots of video presentations here:
 [136]: https://medium.com/sebs-top-tips/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0#.wu513jqkj
 [137]: https://medium.com/sebs-top-tips/share-the-settings-with-the-whole-team-android-studio-protip-6-3cce16eb2ea4#.crrlawa3a
 [138]: https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.78vrx9ubj
+[139]: https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329#.udpbumsyb
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
