@@ -82,6 +82,7 @@ Add the first video
 ######Posts
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
 - [NAMING TEST CLASSES AND METHODS][134]
+- [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -288,6 +289,7 @@ You can find lots of video presentations here:
 [137]: https://medium.com/sebs-top-tips/share-the-settings-with-the-whole-team-android-studio-protip-6-3cce16eb2ea4#.crrlawa3a
 [138]: https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.78vrx9ubj
 [139]: https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329#.udpbumsyb
+[140]: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56#.nyzeqzqx7
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
