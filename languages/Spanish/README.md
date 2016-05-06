@@ -79,6 +79,7 @@ Añade el primer post
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 - [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][210]
+- [Elegant Testing - Pablo Guardiola][213] 
 
 ###Kotlin
 
@@ -199,6 +200,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [210]: https://www.youtube.com/watch?v=R94LZ3Eda4s
 [211]: https://www.youtube.com/watch?v=lOEOK3UvmJM
 [212]: https://www.youtube.com/watch?v=Y7Mmb9uFvpk
+[213]: https://www.youtube.com/watch?v=vq9ua6hQUAM&t=1h0m50s
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations
