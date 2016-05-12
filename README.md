@@ -62,6 +62,7 @@ Add the first video
 - [MVVM with Data Binding on Android][104]
 - [The Clean Architecture by Uncle Bob][105]
 - [Architecting Android... The clean way? - Fernando Cejas][110]
+- [ANDROID DEVELOPMENT LIKE A PRO][141]
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
@@ -290,6 +291,7 @@ You can find lots of video presentations here:
 [138]: https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.78vrx9ubj
 [139]: https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329#.udpbumsyb
 [140]: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56#.nyzeqzqx7
+[141]: https://vimeo.com/144678505#t=144s
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
