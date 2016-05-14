@@ -63,6 +63,7 @@ Add the first video
 - [The Clean Architecture by Uncle Bob][105]
 - [Architecting Android... The clean way? - Fernando Cejas][110]
 - [ANDROID DEVELOPMENT LIKE A PRO][141]
+- [This one simple change for better class naming will blow your mind][142]
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
@@ -292,6 +293,7 @@ You can find lots of video presentations here:
 [139]: https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329#.udpbumsyb
 [140]: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56#.nyzeqzqx7
 [141]: https://vimeo.com/144678505#t=144s
+[142]: https://www.novoda.com/blog/better-class-naming/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
