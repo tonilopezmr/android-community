@@ -126,6 +126,7 @@ Add the first video
 ######Posts
 - [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 - [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
+- [Faster Android Studio Builds with Dex In Process][143]
 
 ######Talks
 Add the first video
@@ -294,6 +295,7 @@ You can find lots of video presentations here:
 [140]: https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56#.nyzeqzqx7
 [141]: https://vimeo.com/144678505#t=144s
 [142]: https://www.novoda.com/blog/better-class-naming/
+[143]: https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.abi2803x0
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
