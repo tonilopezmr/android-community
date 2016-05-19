@@ -229,6 +229,7 @@ You can find lots of video presentations here:
 ###Communities and events
 - [Android Developers][3]
 - [DroidCon][30]
+- [Android at Google I/O 2016][205]
 
 ###Libraries collection
 - [snowdream/awesome-android][8]
@@ -313,6 +314,7 @@ You can find lots of video presentations here:
 [202]: https://www.youtube.com/playlist?list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn
 [203]: https://www.youtube.com/watch?v=n8nG5K_3BJM
 [204]: https://www.youtube.com/watch?v=22tSgne3ffw
+[205]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
