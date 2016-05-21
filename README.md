@@ -186,8 +186,8 @@ Add the first video
 - SOLID Principles for Android Developers, a series by [Donn Felker][64]	
 	- [Single Responsibility Principle][503]
 	- [Open-Closed Principle][504]
-	- Liskov Substitution Principle //TODO
-	- Interface Segregation Principle //TODO
+	- [Liskov Substitution Principle][506]
+	- [Interface Segregation Principle][507]
 	- Dependency Inversion Principle //TODO
 
 - Approaching Outside-in TDD on Android by [Carlos Morera][65] and [Christian Panadero][66]
@@ -343,6 +343,8 @@ You can find lots of video presentations here:
 [503]: https://realm.io/news/donn-felker-solid-part-1/
 [504]: https://realm.io/news/donn-felker-solid-part-2/
 [505]: http://panavtec.me/approaching-tdd-outside-android
+[506]: https://realm.io/news/donn-felker-solid-part-3/
+[507]: https://realm.io/news/donn-felker-solid-part-4/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
