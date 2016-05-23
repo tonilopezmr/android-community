@@ -35,6 +35,7 @@ Help me to create together the biggest collection of information about android c
 - [Patterns][101]
 - [AppCompat v23.2 — Age of the vectors][133]
 - [Building a Responsive UI in Android][144]
+- [Material Improvements][145]
 
 ######Posts
 - [Mastering the Coordinator Layout][103]
@@ -299,6 +300,7 @@ You can find lots of video presentations here:
 [142]: https://www.novoda.com/blog/better-class-naming/
 [143]: https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.abi2803x0
 [144]: https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.vpba30f3d
+[145]: https://photos.google.com/share/AF1QipMGDO7ua5JPl8iv0sNTYl2cOgnCDBzDiid4gIdT6jw69YcARQIQ6VbX5wi-YxRDjQ?key=M25pM2RkU0kzeG4xRmhQUHhxejhGbjdNanhBYkdR
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
