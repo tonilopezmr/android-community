@@ -66,6 +66,7 @@ Add the first video
 - [Architecting Android... The clean way? - Fernando Cejas][110]
 - [ANDROID DEVELOPMENT LIKE A PRO][141]
 - [This one simple change for better class naming will blow your mind][142]
+- [Working effectively with Android legacy code][146]
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
@@ -301,6 +302,7 @@ You can find lots of video presentations here:
 [143]: https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.abi2803x0
 [144]: https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.vpba30f3d
 [145]: https://photos.google.com/share/AF1QipMGDO7ua5JPl8iv0sNTYl2cOgnCDBzDiid4gIdT6jw69YcARQIQ6VbX5wi-YxRDjQ?key=M25pM2RkU0kzeG4xRmhQUHhxejhGbjdNanhBYkdR
+[146]: https://skillsmatter.com/skillscasts/7543-working-effectively-with-android-legacy-code
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
