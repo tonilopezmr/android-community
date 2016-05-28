@@ -43,6 +43,7 @@ Help me to create together the biggest collection of information about android c
 - [Developing like a pro - portrait only apps - novoda][112]
 - [Optimizing Layouts in Android – Reducing Overdraw][118]
 - [Retain & restore recycler view scroll position][127]
+- [Android Grid Layout][147]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -303,6 +304,7 @@ You can find lots of video presentations here:
 [144]: https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.vpba30f3d
 [145]: https://photos.google.com/share/AF1QipMGDO7ua5JPl8iv0sNTYl2cOgnCDBzDiid4gIdT6jw69YcARQIQ6VbX5wi-YxRDjQ?key=M25pM2RkU0kzeG4xRmhQUHhxejhGbjdNanhBYkdR
 [146]: https://skillsmatter.com/skillscasts/7543-working-effectively-with-android-legacy-code
+[147]: https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.2e8p4mx07
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
