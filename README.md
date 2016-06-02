@@ -115,6 +115,7 @@ Add the first video
 ######Talks
 - [Android Development with Kotlin - Jake Wharton][22]
 - [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
+- [Where We Stand & What's Next for Kotlin][206]
 
 ###Reactive
 
@@ -325,6 +326,7 @@ You can find lots of video presentations here:
 [203]: https://www.youtube.com/watch?v=n8nG5K_3BJM
 [204]: https://www.youtube.com/watch?v=22tSgne3ffw
 [205]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
+[206]: https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
