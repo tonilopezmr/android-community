@@ -123,6 +123,7 @@ Add the first video
 - [RxJava's repeatWhen and retryWhen, explained - Dan Lew][115]
 - [Error handling in RxJava - Dan Lew][116]
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
+- [The reactive manifesto][149]
 
 ######Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
@@ -308,6 +309,7 @@ You can find lots of video presentations here:
 [146]: https://skillsmatter.com/skillscasts/7543-working-effectively-with-android-legacy-code
 [147]: https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.2e8p4mx07
 [148]: https://medium.com/@HackDdroid/yet-another-way-for-applying-fonts-and-more-350d45accf10#.9i2nuvyxq
+[149]: http://www.reactivemanifesto.org/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
