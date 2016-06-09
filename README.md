@@ -135,6 +135,7 @@ Add the first video
 - [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 - [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
 - [Faster Android Studio Builds with Dex In Process][143]
+- [The powerful Android Studio][150]
 
 ######Talks
 Add the first video
@@ -311,6 +312,7 @@ You can find lots of video presentations here:
 [147]: https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.2e8p4mx07
 [148]: https://medium.com/@HackDdroid/yet-another-way-for-applying-fonts-and-more-350d45accf10#.9i2nuvyxq
 [149]: http://www.reactivemanifesto.org/
+[150]: http://saulmm.github.io/the-powerful-android-studio
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
