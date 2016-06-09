@@ -138,7 +138,7 @@ Add the first video
 - [The powerful Android Studio][150]
 
 ######Talks
-Add the first video
+- [IntelliJ IDEA Tips and Tricks][208]
 
 ###Gradle
 
@@ -333,6 +333,7 @@ You can find lots of video presentations here:
 [205]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
 [206]: https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/
 [207]: https://realm.io/news/kau-jake-wharton-testing-robots/
+[208]: https://vimeo.com/138847553
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
