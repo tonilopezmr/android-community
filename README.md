@@ -136,9 +136,12 @@ Add the first video
 - [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
 - [Faster Android Studio Builds with Dex In Process][143]
 - [The powerful Android Studio][150]
+- [No Tabs in IntelliJ IDEA][151]
 
 ######Talks
 - [IntelliJ IDEA Tips and Tricks][208]
+- [Android Studio for Experts (Android Dev Summit 2015)][209]
+- [The experts' guide to Android development tools - Google I/O 2016][210]
 
 ###Gradle
 
@@ -313,6 +316,7 @@ You can find lots of video presentations here:
 [148]: https://medium.com/@HackDdroid/yet-another-way-for-applying-fonts-and-more-350d45accf10#.9i2nuvyxq
 [149]: http://www.reactivemanifesto.org/
 [150]: http://saulmm.github.io/the-powerful-android-studio
+[151]: http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -334,6 +338,8 @@ You can find lots of video presentations here:
 [206]: https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/
 [207]: https://realm.io/news/kau-jake-wharton-testing-robots/
 [208]: https://vimeo.com/138847553
+[209]: https://www.youtube.com/watch?v=Y2GC6P5hPeA
+[210]: https://www.youtube.com/watch?v=hHnTIMjd1Y8
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
