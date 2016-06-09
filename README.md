@@ -95,6 +95,7 @@ Add the first video
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
 - [Unit Testing RxJava Observables][139]
+- [Instrumentation Testing Robots][207]
 
 ###Debugging
 
@@ -329,6 +330,7 @@ You can find lots of video presentations here:
 [204]: https://www.youtube.com/watch?v=22tSgne3ffw
 [205]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
 [206]: https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/
+[207]: https://realm.io/news/kau-jake-wharton-testing-robots/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
