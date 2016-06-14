@@ -90,12 +90,15 @@ Add the first video
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
 - [NAMING TEST CLASSES AND METHODS][134]
 - [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
+- [Writing Android Tests with Espresso Test Recorder][152]
+
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
 - [Unit Testing RxJava Observables][139]
 - [Instrumentation Testing Robots][207]
+- [Advanced Android Espresso][211]
 
 ###Debugging
 
@@ -317,6 +320,7 @@ You can find lots of video presentations here:
 [149]: http://www.reactivemanifesto.org/
 [150]: http://saulmm.github.io/the-powerful-android-studio
 [151]: http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/
+[152]: http://peirr.com/writing-android-tests-with-espresso-test-recorder/?utm_content=buffer3ba29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -340,6 +344,7 @@ You can find lots of video presentations here:
 [208]: https://vimeo.com/138847553
 [209]: https://www.youtube.com/watch?v=Y2GC6P5hPeA
 [210]: https://www.youtube.com/watch?v=hHnTIMjd1Y8
+[211]: https://realm.io/news/chiu-ki-chan-advanced-android-espresso-testing/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
