@@ -23,6 +23,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Android Studio](#android-studio)
 #####[- Gradle](#gradle)
 #####[- Storage](#storage)
+#####[- Metrics](#metrics)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -164,6 +165,15 @@ Add the first video
 ######Talks
 Add the first video
 
+###Metrics
+
+######Posts
+- [AndroidDevMetrics — Activity lifecycle methods tracing][153]
+- [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development][154]
+
+
+######Talks
+Add the first video
 
 
 ###Series
@@ -321,6 +331,8 @@ You can find lots of video presentations here:
 [150]: http://saulmm.github.io/the-powerful-android-studio
 [151]: http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/
 [152]: http://peirr.com/writing-android-tests-with-espresso-test-recorder/?utm_content=buffer3ba29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[153]: http://frogermcs.github.io/androiddevmetrics-activity-lifecycle-methods-tracing/
+[154]: http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
