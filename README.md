@@ -93,7 +93,6 @@ Add the first video
 - [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
 - [Writing Android Tests with Espresso Test Recorder][152]
 
-
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
@@ -218,6 +217,9 @@ Add the first video
 - Approaching Outside-in TDD on Android by [Carlos Morera][65] and [Christian Panadero][66]
 	- [Part 1][505]
 
+- Introduction to Automated Android Testing by [Rebecca Franks][67]
+	- [Part 1][508]
+
 ###Slides
 
 You can find lots of video presentations here:
@@ -244,6 +246,7 @@ You can find lots of video presentations here:
 - [Karumi][108]
 - [Novoda][113]
 - [John Petitto][114]
+- [Riggaroo - Rebecca Franks][155]
 
 ###Talks
 - [Android Developers][2]
@@ -333,6 +336,7 @@ You can find lots of video presentations here:
 [152]: http://peirr.com/writing-android-tests-with-espresso-test-recorder/?utm_content=buffer3ba29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 [153]: http://frogermcs.github.io/androiddevmetrics-activity-lifecycle-methods-tracing/
 [154]: http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
+[155]: https://riggaroo.co.za/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -387,6 +391,7 @@ You can find lots of video presentations here:
 [505]: http://panavtec.me/approaching-tdd-outside-android
 [506]: https://realm.io/news/donn-felker-solid-part-3/
 [507]: https://realm.io/news/donn-felker-solid-part-4/
+[508]: https://riggaroo.co.za/introduction-automated-android-testing/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
@@ -397,6 +402,7 @@ You can find lots of video presentations here:
 [64]: https://twitter.com/donnfelker
 [65]: https://twitter.com/CarlosMChica
 [66]: https://twitter.com/panavtec
+[67]: https://twitter.com/riggaroo
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
