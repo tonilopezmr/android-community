@@ -220,6 +220,14 @@ Add the first video
 - Introduction to Automated Android Testing by [Rebecca Franks][67]
 	- [Part 1][508]
 
+- ConstraintLayout by [Mark Allison][68]
+	- [Part 1][509]
+	- [Part 2][510]
+	- [Part 3][511]
+	- [Part 4][512]
+	- [Part 5][513]
+	- [Part 6][514]
+
 ###Slides
 
 You can find lots of video presentations here:
@@ -392,6 +400,12 @@ You can find lots of video presentations here:
 [506]: https://realm.io/news/donn-felker-solid-part-3/
 [507]: https://realm.io/news/donn-felker-solid-part-4/
 [508]: https://riggaroo.co.za/introduction-automated-android-testing/
+[509]: https://blog.stylingandroid.com/constraintlayout-part-1/
+[510]: https://blog.stylingandroid.com/constraintlayout-part-2/
+[511]: https://blog.stylingandroid.com/constraintlayout-part-3/
+[512]: https://blog.stylingandroid.com/constraintlayout-part-4/
+[513]: https://blog.stylingandroid.com/constraintlayout-part-5/
+[514]: https://blog.stylingandroid.com/constraintlayout-part-6/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
@@ -403,6 +417,7 @@ You can find lots of video presentations here:
 [65]: https://twitter.com/CarlosMChica
 [66]: https://twitter.com/panavtec
 [67]: https://twitter.com/riggaroo
+[68]: https://twitter.com/MarkIAllison
 
 [comment]: <Languages> 
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
