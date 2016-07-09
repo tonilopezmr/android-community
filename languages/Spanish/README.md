@@ -80,7 +80,8 @@ Añade el primer post
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 - [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][210]
 - [Elegant Testing - Pablo Guardiola][213] 
-- [Joaquin Engelmo (kinisoftware) - Adicto al verde][]
+- [Joaquin Engelmo (kinisoftware) - Adicto al verde][215]
+- [Dando amor a los tests por Joaquin Engelmo][216]
 
 ###Kotlin
 
@@ -205,6 +206,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 [213]: https://www.youtube.com/watch?v=vq9ua6hQUAM&t=1h0m50s
 [214]: https://www.youtube.com/watch?v=i1f2x0ogAho&index=2&list=PLKxa4AIfm4pUX45qx-5dojelmK7e_0aFO
 [215]: https://www.youtube.com/watch?v=6GAOSwwstO4
+[216]: https://www.youtube.com/watch?v=zPKMmG6koIg
 
 [comment]: <Slides> 
 [3]: http://es.slideshare.net/PedroVicenteGmezSnch/presentations
