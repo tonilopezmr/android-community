@@ -92,6 +92,7 @@ Add the first video
 - [NAMING TEST CLASSES AND METHODS][134]
 - [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
 - [Writing Android Tests with Espresso Test Recorder][152]
+- [Android user interface testing with Espresso - Tutorial][156]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -345,6 +346,7 @@ You can find lots of video presentations here:
 [153]: http://frogermcs.github.io/androiddevmetrics-activity-lifecycle-methods-tracing/
 [154]: http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
 [155]: https://riggaroo.co.za/
+[156]: http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
