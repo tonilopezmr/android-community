@@ -52,6 +52,7 @@ Help me to create together the biggest collection of information about android c
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
 - [Droidcon SF 2016 - Mastering CoordinatorLayout Behaviors][204]
+- [A window into transitions - Google I/O 2016][212]
 
 ###CustomViews
 
@@ -203,14 +204,14 @@ Add the first video
 	- [Part 3: Reactive with Benefits][501]
 	- [Part 4: Reactive Android][502]
 
-- Welcome to my very own Android Studio protip series - [Sebastiano Poggi][63] (Not finished)
+- Welcome to my very own Android Studio protip series - [Sebastiano Poggi][63]
 	- [Clear the app data quickly][128]
 	- [Analysing a stack trace][129]
 	- [Analyse data flows without the debugger][130]
 	- [Use custom debug viewers for your data][131]
 	- [Use tasks to bring the stories to you][136]
 	- [Share the settings with the whole team][137]
-	- Quickly change tokens casing with search and shortcuts //TODO
+	- [Quickly change tokens case][515]
 
 - SOLID Principles for Android Developers, a series by [Donn Felker][64]	
 	- [Single Responsibility Principle][503]
@@ -379,6 +380,7 @@ You can find lots of video presentations here:
 [209]: https://www.youtube.com/watch?v=Y2GC6P5hPeA
 [210]: https://www.youtube.com/watch?v=hHnTIMjd1Y8
 [211]: https://realm.io/news/chiu-ki-chan-advanced-android-espresso-testing/
+[212]: https://www.youtube.com/watch?v=4L4fLrWDvAU
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
@@ -416,6 +418,7 @@ You can find lots of video presentations here:
 [512]: https://blog.stylingandroid.com/constraintlayout-part-4/
 [513]: https://blog.stylingandroid.com/constraintlayout-part-5/
 [514]: https://blog.stylingandroid.com/constraintlayout-part-6/
+[515]: https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.hhypg3rq3
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
