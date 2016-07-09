@@ -96,6 +96,7 @@ Add the first video
 - [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
 - [Writing Android Tests with Espresso Test Recorder][152]
 - [Android user interface testing with Espresso - Tutorial][156]
+- [Fast and reliable UI tests on Android][160]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -353,6 +354,7 @@ You can find lots of video presentations here:
 [157]: http://jeroenmols.com/blog/2016/03/07/resourcenaming/
 [158]: https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.7bmc7mizx
 [159]: https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.pxn2stvoy
+[160]: https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.m7692ciky
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
