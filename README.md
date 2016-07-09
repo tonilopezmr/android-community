@@ -46,6 +46,7 @@ Help me to create together the biggest collection of information about android c
 - [Retain & restore recycler view scroll position][127]
 - [Android Grid Layout][147]
 - [Yet another way for applying fonts … and more :)][148]
+- [A SUCCESSFUL XML NAMING CONVENTION][157]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -347,6 +348,7 @@ You can find lots of video presentations here:
 [154]: http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
 [155]: https://riggaroo.co.za/
 [156]: http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+[157]: http://jeroenmols.com/blog/2016/03/07/resourcenaming/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
