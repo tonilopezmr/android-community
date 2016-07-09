@@ -47,6 +47,7 @@ Help me to create together the biggest collection of information about android c
 - [Android Grid Layout][147]
 - [Yet another way for applying fonts … and more :)][148]
 - [A SUCCESSFUL XML NAMING CONVENTION][157]
+- [Memory leaks in Android — identify, treat and avoid][159]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -71,6 +72,7 @@ Add the first video
 - [ANDROID DEVELOPMENT LIKE A PRO][141]
 - [This one simple change for better class naming will blow your mind][142]
 - [Working effectively with Android legacy code][146]
+- [Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module][158]
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
@@ -349,6 +351,8 @@ You can find lots of video presentations here:
 [155]: https://riggaroo.co.za/
 [156]: http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
 [157]: http://jeroenmols.com/blog/2016/03/07/resourcenaming/
+[158]: https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.7bmc7mizx
+[159]: https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.pxn2stvoy
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
