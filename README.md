@@ -218,7 +218,7 @@ Add the first video
 	- [Open-Closed Principle][504]
 	- [Liskov Substitution Principle][506]
 	- [Interface Segregation Principle][507]
-	- Dependency Inversion Principle //TODO
+	- [Dependency Inversion Principle][516]
 
 - Approaching Outside-in TDD on Android by [Carlos Morera][65] and [Christian Panadero][66]
 	- [Part 1][505]
@@ -419,6 +419,7 @@ You can find lots of video presentations here:
 [513]: https://blog.stylingandroid.com/constraintlayout-part-5/
 [514]: https://blog.stylingandroid.com/constraintlayout-part-6/
 [515]: https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.hhypg3rq3
+[516]: https://realm.io/news/donn-felker-solid-part-5/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
