@@ -98,6 +98,7 @@ Add the first video
 - [Writing Android Tests with Espresso Test Recorder][152]
 - [Android user interface testing with Espresso - Tutorial][156]
 - [Fast and reliable UI tests on Android][160]
+- [Understanding Test Doubles (Mock vs Stub)][161]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -357,6 +358,7 @@ You can find lots of video presentations here:
 [158]: https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.7bmc7mizx
 [159]: https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.pxn2stvoy
 [160]: https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.m7692ciky
+[161]: https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
