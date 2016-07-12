@@ -48,6 +48,7 @@ Help me to create together the biggest collection of information about android c
 - [Yet another way for applying fonts … and more :)][148]
 - [A SUCCESSFUL XML NAMING CONVENTION][157]
 - [Memory leaks in Android — identify, treat and avoid][159]
+- [Animate all the things. Transitions in Android][162]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -359,6 +360,7 @@ You can find lots of video presentations here:
 [159]: https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.pxn2stvoy
 [160]: https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.m7692ciky
 [161]: https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
+[162]: https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.9ezzzvl0x
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
