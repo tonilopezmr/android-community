@@ -264,6 +264,7 @@ You can find lots of video presentations here:
 - [Novoda][113]
 - [John Petitto][114]
 - [Riggaroo - Rebecca Franks][155]
+- [Future Studio][163]
 
 ###Talks
 - [Android Developers][2]
@@ -361,6 +362,7 @@ You can find lots of video presentations here:
 [160]: https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.m7692ciky
 [161]: https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
 [162]: https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.9ezzzvl0x
+[163]: https://futurestud.io/blog/tag/android
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
