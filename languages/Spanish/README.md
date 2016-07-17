@@ -79,8 +79,8 @@ Añade el primer post
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 - [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][210]
-- [Elegant Testing - Pablo Guardiola][213] 
-- [Joaquin Engelmo (kinisoftware) - Adicto al verde][215]
+- [Elegant Testing - Pablo Guardiola][213]
+- [Joaquin Engelmo (kinisoftware) - Adicto al verde][215]
 - [Dando amor a los tests por Joaquin Engelmo][216]
 
 ###Kotlin
