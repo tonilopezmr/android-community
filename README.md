@@ -30,6 +30,8 @@ Help me to create together the biggest collection of information about android c
 #####[- Slides](#slides)
 #####[- Discover](#discover)
 
+-----------------------------
+
 ###Android Framework
 
 ######Posts
