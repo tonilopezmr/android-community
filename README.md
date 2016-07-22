@@ -12,6 +12,7 @@ Help me to create together the biggest collection of information about android c
 
 ###Summary
 
+#####[- Android Framework](#android-framework)
 #####[- Android UI](#android-ui)
 #####[- CustomViews](#customviews)
 #####[- Architecture](#architecture)
@@ -29,6 +30,13 @@ Help me to create together the biggest collection of information about android c
 #####[- Slides](#slides)
 #####[- Discover](#discover)
 
+###Android Framework
+
+#######Posts
+Add the first post about android framework
+
+#######Talks
+- [Reducing Mobile Data Usage in your Android Apps][213]
 
 ###Android UI
 
@@ -388,6 +396,7 @@ You can find lots of video presentations here:
 [210]: https://www.youtube.com/watch?v=hHnTIMjd1Y8
 [211]: https://realm.io/news/chiu-ki-chan-advanced-android-espresso-testing/
 [212]: https://www.youtube.com/watch?v=4L4fLrWDvAU
+[213]: https://www.youtube.com/watch?v=tnj2uoTwevg
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
