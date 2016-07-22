@@ -32,10 +32,10 @@ Help me to create together the biggest collection of information about android c
 
 ###Android Framework
 
-#######Posts
+######Posts
 Add the first post about android framework
 
-#######Talks
+######Talks
 - [Reducing Mobile Data Usage in your Android Apps][213]
 
 ###Android UI
