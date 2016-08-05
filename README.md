@@ -180,7 +180,7 @@ Add the first video
 ######Posts
 - [AndroidDevMetrics — Activity lifecycle methods tracing][153]
 - [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development][154]
-
+- [Getting the most out of Crashlytics][166]
 
 ######Talks
 Add the first video
@@ -378,6 +378,7 @@ You can find lots of video presentations here:
 [163]: http://www.littlerobots.nl/blog/Note-to-self-RxJava-SyncOnSubscribe/
 [164]: https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.lc8h6qovh
 [165]: https://medium.com/google-developers/exceed-the-android-speed-limit-b73a0692abc1#.cpog2iyfo
+[166]: https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cb6wqm6xb
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
