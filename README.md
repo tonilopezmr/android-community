@@ -24,6 +24,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Gradle](#gradle)
 #####[- Storage](#storage)
 #####[- Metrics](#metrics)
+#####[- Build Process](#build-process)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -178,6 +179,16 @@ Add the first video
 ######Posts
 - [AndroidDevMetrics — Activity lifecycle methods tracing][153]
 - [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development][154]
+
+
+######Talks
+Add the first video
+
+
+###Build Process
+
+######Posts
+- [Streamlining eero’s Android build process][164]
 
 
 ######Talks
@@ -363,6 +374,7 @@ You can find lots of video presentations here:
 [161]: https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
 [162]: https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.9ezzzvl0x
 [163]: http://www.littlerobots.nl/blog/Note-to-self-RxJava-SyncOnSubscribe/
+[164]: https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.lc8h6qovh
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
