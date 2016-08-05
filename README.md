@@ -50,6 +50,7 @@ Help me to create together the biggest collection of information about android c
 - [A SUCCESSFUL XML NAMING CONVENTION][157]
 - [Memory leaks in Android — identify, treat and avoid][159]
 - [Animate all the things. Transitions in Android][162]
+- [Exceed the Android Speed Limit!][165]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -257,6 +258,7 @@ You can find lots of video presentations here:
 - [Fernando Cejas][40]
 - [Cyril Mottier][41]
 - [Jon Reeve][42]
+- [Enrique López Mañas][43]
 
 ##Discover
 
@@ -375,6 +377,7 @@ You can find lots of video presentations here:
 [162]: https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.9ezzzvl0x
 [163]: http://www.littlerobots.nl/blog/Note-to-self-RxJava-SyncOnSubscribe/
 [164]: https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.lc8h6qovh
+[165]: https://medium.com/google-developers/exceed-the-android-speed-limit-b73a0692abc1#.cpog2iyfo
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -410,6 +413,7 @@ You can find lots of video presentations here:
 [40]: https://speakerdeck.com/android10
 [41]: https://speakerdeck.com/cyrilmottier
 [42]: https://speakerdeck.com/jonreeve
+[43]: https://speakerdeck.com/kikoso
 
 [comment]: <Series> 
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/
