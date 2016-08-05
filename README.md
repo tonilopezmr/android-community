@@ -136,6 +136,7 @@ Add the first video
 - [Error handling in RxJava - Dan Lew][116]
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
 - [The reactive manifesto][149]
+- [Note to self: RxJava SyncOnSubscribe][163]
 
 ######Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
@@ -361,6 +362,7 @@ You can find lots of video presentations here:
 [160]: https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.m7692ciky
 [161]: https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
 [162]: https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.9ezzzvl0x
+[163]: http://www.littlerobots.nl/blog/Note-to-self-RxJava-SyncOnSubscribe/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
