@@ -12,6 +12,7 @@ Help me to create together the biggest collection of information about android c
 
 ###Summary
 
+#####[- Android Framework](#android-framework)
 #####[- Android UI](#android-ui)
 #####[- CustomViews](#customviews)
 #####[- Architecture](#architecture)
@@ -30,6 +31,15 @@ Help me to create together the biggest collection of information about android c
 #####[- Slides](#slides)
 #####[- Discover](#discover)
 
+-----------------------------
+
+###Android Framework
+
+######Posts
+Add the first post about android framework
+
+######Talks
+- [Reducing Mobile Data Usage in your Android Apps][213]
 
 ###Android UI
 
@@ -278,6 +288,7 @@ You can find lots of video presentations here:
 - [Novoda][113]
 - [John Petitto][114]
 - [Riggaroo - Rebecca Franks][155]
+- [Future Studio][167]
 
 ###Talks
 - [Android Developers][2]
@@ -379,6 +390,7 @@ You can find lots of video presentations here:
 [164]: https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.lc8h6qovh
 [165]: https://medium.com/google-developers/exceed-the-android-speed-limit-b73a0692abc1#.cpog2iyfo
 [166]: https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cb6wqm6xb
+[167]: https://futurestud.io/blog/tag/android
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -404,6 +416,7 @@ You can find lots of video presentations here:
 [210]: https://www.youtube.com/watch?v=hHnTIMjd1Y8
 [211]: https://realm.io/news/chiu-ki-chan-advanced-android-espresso-testing/
 [212]: https://www.youtube.com/watch?v=4L4fLrWDvAU
+[213]: https://www.youtube.com/watch?v=tnj2uoTwevg
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
