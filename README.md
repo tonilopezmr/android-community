@@ -119,6 +119,7 @@ Add the first video
 - [Unit Testing RxJava Observables][139]
 - [Instrumentation Testing Robots][207]
 - [Advanced Android Espresso][211]
+- [Enabling Android Teams: Tests? Ain't Nobody Got Time For That! by Ty Smith][214]
 
 ###Debugging
 
@@ -417,6 +418,7 @@ You can find lots of video presentations here:
 [211]: https://realm.io/news/chiu-ki-chan-advanced-android-espresso-testing/
 [212]: https://www.youtube.com/watch?v=4L4fLrWDvAU
 [213]: https://www.youtube.com/watch?v=tnj2uoTwevg
+[214]: https://www.youtube.com/watch?v=lTqUbDXUUXk
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
