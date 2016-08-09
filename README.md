@@ -252,6 +252,8 @@ Add the first video
 - Introduction to Automated Android Testing by [Rebecca Franks][67]
 	- [Part 1][508]
 	- [Part 2][517]
+	- [Part 3][518]
+	- [Part 4][519]
 
 - ConstraintLayout by [Mark Allison][68]
 	- [Part 1][509]
@@ -460,6 +462,8 @@ You can find lots of video presentations here:
 [515]: https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.hhypg3rq3
 [516]: https://realm.io/news/donn-felker-solid-part-5/
 [517]: https://riggaroo.co.za/automated-android-testing-part-2-setup/
+[518]: https://riggaroo.co.za/introduction-android-testing-part3/
+[519]: https://riggaroo.co.za/introduction-android-testing-part-4/
 
 [comment]: <People> 
 [6]: https://twitter.com/JackRix
