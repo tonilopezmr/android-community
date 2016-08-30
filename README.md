@@ -112,6 +112,7 @@ Add the first video
 - [Android user interface testing with Espresso - Tutorial][156]
 - [Fast and reliable UI tests on Android][160]
 - [Understanding Test Doubles (Mock vs Stub)][161]
+- [IdlingResource, Dagger and Junit rules][168]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -395,6 +396,7 @@ You can find lots of video presentations here:
 [165]: https://medium.com/google-developers/exceed-the-android-speed-limit-b73a0692abc1#.cpog2iyfo
 [166]: https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cb6wqm6xb
 [167]: https://futurestud.io/blog/tag/android
+[168]: https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff#.dsdqo0nxk
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
