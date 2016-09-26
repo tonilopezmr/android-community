@@ -66,6 +66,7 @@ Add the first post about android framework
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
 - [Droidcon SF 2016 - Mastering CoordinatorLayout Behaviors][204]
 - [A window into transitions - Google I/O 2016][212]
+- [Measure, Layout, Draw, Repeat: Custom Views and ViewGroups][216]
 
 ###CustomViews
 
@@ -425,6 +426,7 @@ You can find lots of video presentations here:
 [213]: https://www.youtube.com/watch?v=tnj2uoTwevg
 [214]: https://www.youtube.com/watch?v=lTqUbDXUUXk
 [215]: http://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en
+[216]:https://realm.io/news/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
