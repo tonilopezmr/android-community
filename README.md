@@ -36,7 +36,7 @@ Help me to create together the biggest collection of information about android c
 ###Android Framework
 
 ######Posts
-Add the first post about android framework
+- [Everything every Android Developer must know about new Android's Runtime Permission][169]
 
 ######Talks
 - [Reducing Mobile Data Usage in your Android Apps][213]
@@ -398,6 +398,7 @@ You can find lots of video presentations here:
 [166]: https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cb6wqm6xb
 [167]: https://futurestud.io/blog/tag/android
 [168]: https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff#.dsdqo0nxk
+[169]: https://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
