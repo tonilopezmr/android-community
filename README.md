@@ -139,6 +139,7 @@ Add the first video
 - [Functional operations over Views in ViewGroup using Kotlin][102]
 - [Building a Kotlin project - Ciro Rizzo](#series)
 - [Using Kotlin For Tests in Android][132]
+- [Programming Language vs Library: Kotlin vs RxJava O_o][172]
 
 ######Talks
 - [Android Development with Kotlin - Jake Wharton][22]
@@ -195,6 +196,8 @@ Add the first video
 - [AndroidDevMetrics — Activity lifecycle methods tracing][153]
 - [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development][154]
 - [Getting the most out of Crashlytics][166]
+- [The right way to ask users to review your app][170]
+- [Asking for App Feedback - The effective way][171]
 
 ######Talks
 Add the first video
@@ -399,6 +402,9 @@ You can find lots of video presentations here:
 [167]: https://futurestud.io/blog/tag/android
 [168]: https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff#.dsdqo0nxk
 [169]: https://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
+[170]: https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.mmdgibfra
+[171]: https://www.novoda.com/blog/asking-for-app-feedback-the-effective-way/
+[172]: https://artemzin.com/blog/programming-language-vs-library-kotlin-vs-rxjava-o_o/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
