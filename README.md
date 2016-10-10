@@ -141,6 +141,7 @@ Add the first video
 - [Building a Kotlin project - Ciro Rizzo](#series)
 - [Using Kotlin For Tests in Android][132]
 - [Programming Language vs Library: Kotlin vs RxJava O_o][172]
+- [Mocking Kotlin with Mockito][175]
 
 ######Talks
 - [Android Development with Kotlin - Jake Wharton][22]
@@ -417,6 +418,7 @@ You can find lots of video presentations here:
 [172]: https://artemzin.com/blog/programming-language-vs-library-kotlin-vs-rxjava-o_o/
 [173]: https://medium.com/@Steppschuh/dealing-with-pirated-app-users-689bba67f0c4#.9gkbuu424
 [174]: https://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app#2-verifying-your-app-s-signing-certificate-at-runtime
+[175]: http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
