@@ -26,6 +26,7 @@ Help me to create together the biggest collection of information about android c
 #####[- Storage](#storage)
 #####[- Metrics](#metrics)
 #####[- Build Process](#build-process)
+#####[- Security](#security)
 
 #####[- Series](#series)
 #####[- Slides](#slides)
@@ -208,6 +209,15 @@ Add the first video
 ######Posts
 - [Streamlining eero’s Android build process][164]
 
+
+######Talks
+Add the first video
+
+###Security
+
+######Posts
+- [Dealing with Pirated App Users][173]
+- [Android Security: Adding Tampering Detection to Your App][174]
 
 ######Talks
 Add the first video
@@ -405,6 +415,8 @@ You can find lots of video presentations here:
 [170]: https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca#.mmdgibfra
 [171]: https://www.novoda.com/blog/asking-for-app-feedback-the-effective-way/
 [172]: https://artemzin.com/blog/programming-language-vs-library-kotlin-vs-rxjava-o_o/
+[173]: https://medium.com/@Steppschuh/dealing-with-pirated-app-users-689bba67f0c4#.9gkbuu424
+[174]: https://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app#2-verifying-your-app-s-signing-certificate-at-runtime
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
