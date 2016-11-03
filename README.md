@@ -89,6 +89,7 @@ Add the first video
 - [This one simple change for better class naming will blow your mind][142]
 - [Working effectively with Android legacy code][146]
 - [Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module][158]
+- [10 Modern Software Over-Engineering Mistakes][178]
 
 ######Talks
 - [Robert C Martin - Clean Architecture][25]
@@ -156,6 +157,7 @@ Add the first video
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
 - [The reactive manifesto][149]
 - [Note to self: RxJava SyncOnSubscribe][163]
+- [Chaining multiple sources with RxJava][176]
 
 ######Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
@@ -187,7 +189,7 @@ Add the first video
 
 ######Posts
 - [Designing a Database: Realm Threading Deep Dive][135]
-
+- [How to use Realm for Android like a champ, and how to tell if you’re doing it wrong][177]
 
 ######Talks
 Add the first video
@@ -289,6 +291,7 @@ You can find lots of video presentations here:
 - [Cyril Mottier][41]
 - [Jon Reeve][42]
 - [Enrique López Mañas][43]
+- [Lisa Wray][44]
 
 ##Discover
 
@@ -419,6 +422,9 @@ You can find lots of video presentations here:
 [173]: https://medium.com/@Steppschuh/dealing-with-pirated-app-users-689bba67f0c4#.9gkbuu424
 [174]: https://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app#2-verifying-your-app-s-signing-certificate-at-runtime
 [175]: http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
+[176]: https://medium.com/yammer-engineering/chaining-multiple-sources-with-rxjava-20eb6850e5d9#.she2mb3up
+[177]: https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.5sfnj14jk
+[178]: https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.jg31p95yk
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
@@ -459,6 +465,7 @@ You can find lots of video presentations here:
 [41]: https://speakerdeck.com/cyrilmottier
 [42]: https://speakerdeck.com/jonreeve
 [43]: https://speakerdeck.com/kikoso
+[44]: https://speakerdeck.com/lisawray
 
 [comment]: <Series> 
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/
