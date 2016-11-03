@@ -62,6 +62,7 @@ Help me to create together the biggest collection of information about android c
 - [Memory leaks in Android — identify, treat and avoid][159]
 - [Animate all the things. Transitions in Android][162]
 - [Exceed the Android Speed Limit!][165]
+- [RecyclerView: How we achieved 60 FPS in Workable’s Android App (tips)][179]
 
 ######Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
@@ -426,6 +427,7 @@ You can find lots of video presentations here:
 [176]: https://medium.com/yammer-engineering/chaining-multiple-sources-with-rxjava-20eb6850e5d9#.she2mb3up
 [177]: https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.5sfnj14jk
 [178]: https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.jg31p95yk
+[179]: https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.inwxofvgp
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
