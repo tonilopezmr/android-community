@@ -144,6 +144,7 @@ Add the first video
 - [Using Kotlin For Tests in Android][132]
 - [Programming Language vs Library: Kotlin vs RxJava O_o][172]
 - [Mocking Kotlin with Mockito][175]
+- [Kotlin ❤ FP][180]
 
 ######Talks
 - [Android Development with Kotlin - Jake Wharton][22]
@@ -428,6 +429,7 @@ You can find lots of video presentations here:
 [177]: https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.5sfnj14jk
 [178]: https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.jg31p95yk
 [179]: https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.inwxofvgp
+[180]: https://medium.com/@octskyward/kotlin-fp-3bf63a17d64a#.p36zefm35
 
 [comment]: <Talks> 
 [2]: https://www.youtube.com/user/androiddevelopers
