@@ -148,6 +148,7 @@ Add the first video
 - [Android Development with Kotlin - Jake Wharton][22]
 - [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
 - [Where We Stand & What's Next for Kotlin][206]
+- [GOTO 2016 • Better Android Development with Kotlin and Gradle • Ty Smith][217]
 
 ###Reactive
 
@@ -454,6 +455,7 @@ You can find lots of video presentations here:
 [214]: https://www.youtube.com/watch?v=lTqUbDXUUXk
 [215]: http://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en
 [216]:https://realm.io/news/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/
+[217]: https://www.youtube.com/watch?v=_DaZQ374Chc
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
