@@ -459,7 +459,7 @@ You can find lots of video presentations here:
 [214]: https://www.youtube.com/watch?v=lTqUbDXUUXk
 [215]: http://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en
 [216]:https://realm.io/news/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/
-[217]: https://www.youtube.com/watch?v=_DaZQ374Chc
+[217]: https://realm.io/news/better-android-development-with-kotlin-and-gradle/
 
 [comment]: <Communities-events> 
 [3]: http://developer.android.com/intl/es/index.html
