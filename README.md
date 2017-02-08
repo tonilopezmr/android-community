@@ -106,7 +106,7 @@ Add the first video
 ######Video
 - [Architecting Android Applications with Dagger - Jake Wharton][27]
 
-###Testing 
+###Testing
 
 ######Posts
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
@@ -117,6 +117,7 @@ Add the first video
 - [Fast and reliable UI tests on Android][160]
 - [Understanding Test Doubles (Mock vs Stub)][161]
 - [IdlingResource, Dagger and Junit rules][168]
+- [Testing persistence in the Android ecosystem][181]
 
 ######Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
@@ -246,7 +247,7 @@ Add the first video
 	- [Architecture][55]
 	- [UI][56]
 	- [Compatibility][57]
-	
+
 - Grokking RxJava - [Dan Lew][62]
 	- [Part 1: The Basics][58]
 	- [Part 2: Operator, Operator][59]
@@ -262,7 +263,7 @@ Add the first video
 	- [Share the settings with the whole team][137]
 	- [Quickly change tokens case][515]
 
-- SOLID Principles for Android Developers, a series by [Donn Felker][64]	
+- SOLID Principles for Android Developers, a series by [Donn Felker][64]
 	- [Single Responsibility Principle][503]
 	- [Open-Closed Principle][504]
 	- [Liskov Substitution Principle][506]
@@ -339,7 +340,7 @@ You can find lots of video presentations here:
 
 [0]: http://tonilopezmr.github.io/
 
-[comment]: <Blogs-and-posts> 
+[comment]: <Blogs-and-posts>
 [1]: http://android-developers.blogspot.com.es/
 [10]: http://www.materialdoc.com/
 [11]: http://antonioleiva.com/
@@ -431,8 +432,9 @@ You can find lots of video presentations here:
 [178]: https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.jg31p95yk
 [179]: https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.inwxofvgp
 [180]: https://medium.com/@octskyward/kotlin-fp-3bf63a17d64a#.p36zefm35
+[181]: https://www.novoda.com/blog/testing-persistence-in-the-android-ecosystem/
 
-[comment]: <Talks> 
+[comment]: <Talks>
 [2]: https://www.youtube.com/user/androiddevelopers
 [20]: https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
 [21]: https://www.youtube.com/playlist?list=PLlIuwjGRHc4sQfRzHQnie13gi9BbEVSzh
@@ -463,11 +465,11 @@ You can find lots of video presentations here:
 [217]: https://realm.io/news/better-android-development-with-kotlin-and-gradle/
 [218]: https://www.youtube.com/watch?v=mDpnc45WwlI
 
-[comment]: <Communities-events> 
+[comment]: <Communities-events>
 [3]: http://developer.android.com/intl/es/index.html
 [30]: http://droidcon.com/
 
-[comment]: <Slides> 
+[comment]: <Slides>
 [4]: https://speakerdeck.com/jakewharton
 [40]: https://speakerdeck.com/android10
 [41]: https://speakerdeck.com/cyrilmottier
@@ -475,7 +477,7 @@ You can find lots of video presentations here:
 [43]: https://speakerdeck.com/kikoso
 [44]: https://speakerdeck.com/lisawray
 
-[comment]: <Series> 
+[comment]: <Series>
 [5]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android/
 [50]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2/
 [51]: http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3/
@@ -507,7 +509,7 @@ You can find lots of video presentations here:
 [518]: https://riggaroo.co.za/introduction-android-testing-part3/
 [519]: https://riggaroo.co.za/introduction-android-testing-part-4/
 
-[comment]: <People> 
+[comment]: <People>
 [6]: https://twitter.com/JackRix
 [60]: https://twitter.com/goKarumi
 [61]: https://twitter.com/_saulmm   
@@ -519,10 +521,10 @@ You can find lots of video presentations here:
 [67]: https://twitter.com/riggaroo
 [68]: https://twitter.com/MarkIAllison
 
-[comment]: <Languages> 
+[comment]: <Languages>
 [7]: https://github.com/tonilopezmr/android-community/blob/master/languages/Spanish/README.md
 [70]: https://github.com/tonilopezmr/android-community/blob/master/languages/Italian/README.md
 
-[comment]: <Libraries> 
+[comment]: <Libraries>
 [8]: http://snowdream.github.io/awesome-android/
 [80]: http://android-arsenal.com/
