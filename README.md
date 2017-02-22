@@ -163,6 +163,7 @@ Add the first video
 - [The reactive manifesto][149]
 - [Note to self: RxJava SyncOnSubscribe][163]
 - [Chaining multiple sources with RxJava][176]
+- [How to leak memory with Subscriptions in RxJava][182]
 
 ######Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
@@ -433,7 +434,7 @@ You can find lots of video presentations here:
 [179]: https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.inwxofvgp
 [180]: https://medium.com/@octskyward/kotlin-fp-3bf63a17d64a#.p36zefm35
 [181]: https://www.novoda.com/blog/testing-persistence-in-the-android-ecosystem/
-
+[182]: https://medium.com/@scanarch/how-to-leak-memory-with-subscriptions-in-rxjava-ae0ef01ad361#.l7r28rrke
 [comment]: <Talks>
 [2]: https://www.youtube.com/user/androiddevelopers
 [20]: https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
