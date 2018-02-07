@@ -1,4 +1,4 @@
-#Android-Community
+# Android-Community
 
 Collection of Posts and Talks Android Community.
 
@@ -136,7 +136,7 @@ Add the first video
 ###### Talks
 Add the first video
 
-###Kotlin
+### Kotlin
 
 ###### Posts
 - [Keddit — Intro: Learn Kotlin while developing and Android App][119]
