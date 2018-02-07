@@ -7,42 +7,42 @@ Help me to create together the biggest collection of information about android c
 - [Spanish Community][7]
 - [Italian Community][70]
 
-###How to keep up to date
+### How to keep up to date
 - Click ![](/art/watch.png)  :D
 
-###Summary
+### Summary
 
-#####[- Android Framework](#android-framework)
-#####[- Android UI](#android-ui)
-#####[- CustomViews](#customviews)
-#####[- Architecture](#architecture)
-#####[- Dependency Injection](#dependency-injection)
-#####[- Testing](#testing)
-#####[- Debugging](#debugging)
-#####[- Kotlin](#kotlin)
-#####[- Reactive](#reactive)
-#####[- Android Studio](#android-studio)
-#####[- Gradle](#gradle)
-#####[- Storage](#storage)
-#####[- Metrics](#metrics)
-#####[- Build Process](#build-process)
-#####[- Security](#security)
+##### [- Android Framework](#android-framework)
+##### [- Android UI](#android-ui)
+##### [- CustomViews](#customviews)
+##### [- Architecture](#architecture)
+##### [- Dependency Injection](#dependency-injection)
+##### [- Testing](#testing)
+##### [- Debugging](#debugging)
+##### [- Kotlin](#kotlin)
+##### [- Reactive](#reactive)
+##### [- Android Studio](#android-studio)
+##### [- Gradle](#gradle)
+##### [- Storage](#storage)
+##### [- Metrics](#metrics)
+##### [- Build Process](#build-process)
+##### [- Security](#security)
 
-#####[- Series](#series)
-#####[- Slides](#slides)
-#####[- Discover](#discover)
+##### [- Series](#series)
+##### [- Slides](#slides)
+##### [- Discover](#discover)
 
 -----------------------------
 
-###Android Framework
+### Android Framework
 
-######Posts
+###### Posts
 - [Everything every Android Developer must know about new Android's Runtime Permission][169]
 
-######Talks
+###### Talks
 - [Reducing Mobile Data Usage in your Android Apps][213]
 
-###Android UI
+### Android UI
 
 - [Components][19]
 - [Patterns][101]
@@ -50,7 +50,7 @@ Help me to create together the biggest collection of information about android c
 - [Building a Responsive UI in Android][144]
 - [Material Improvements][145]
 
-######Posts
+###### Posts
 - [Mastering the Coordinator Layout][103]
 - [Fragment transitions with shared elements][109]
 - [Developing like a pro - portrait only apps - novoda][112]
@@ -64,25 +64,25 @@ Help me to create together the biggest collection of information about android c
 - [Exceed the Android Speed Limit!][165]
 - [RecyclerView: How we achieved 60 FPS in Workable’s Android App (tips)][179]
 
-######Talks
+###### Talks
 - [Droidcon NYC 2015 - Mastering RecyclerView Layouts][23]
 - [Droidcon SF 2016 - Mastering CoordinatorLayout Behaviors][204]
 - [A window into transitions - Google I/O 2016][212]
 - [Measure, Layout, Draw, Repeat: Custom Views and ViewGroups][216]
 
-###CustomViews
+### CustomViews
 
-######Posts
+###### Posts
 - [Creating custom and compound Views in Android - Tutorial][121]
 - [Android layouts to the next level: Custom Views, Compound ViewGroups and Custom ViewGroups][122]
 - [Custom Layouts on Android][123]
 
-######Talks
+###### Talks
 Add the first video
 
-###Architecture
+### Architecture
 
-######Posts
+###### Posts
 - [MVVM with Data Binding on Android][104]
 - [The Clean Architecture by Uncle Bob][105]
 - [Architecting Android... The clean way? - Fernando Cejas][110]
@@ -92,23 +92,23 @@ Add the first video
 - [Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module][158]
 - [10 Modern Software Over-Engineering Mistakes][178]
 
-######Talks
+###### Talks
 - [Robert C Martin - Clean Architecture][25]
 - [Droidcon SF - Application Architecture: Designing Offline Application Case Studies][203]
 
-###Dependency Injection
+### Dependency Injection
 
-######Post
+###### Post
 - [Tasting Dagger 2 on Android][124]
 - [Dagger 2: Even sharper, less square][125]
 - [Async Injection in Dagger 2 with RxJava][138]
 
-######Video
+###### Video
 - [Architecting Android Applications with Dagger - Jake Wharton][27]
 
-###Testing
+### Testing
 
-######Posts
+###### Posts
 - [World-Class Testing Development Pipeline for Android - Karumi](#series)
 - [NAMING TEST CLASSES AND METHODS][134]
 - [Android testing using Dagger 2, Mockito and a custom JUnit rule][140]
@@ -119,7 +119,7 @@ Add the first video
 - [IdlingResource, Dagger and Junit rules][168]
 - [Testing persistence in the Android ecosystem][181]
 
-######Talks
+###### Talks
 - [Let's Play: Test-Driven Development (TDD series)][28]
 - [Testing and Refactoring Legacy Code][29]
 - [Unit Testing RxJava Observables][139]
@@ -128,17 +128,17 @@ Add the first video
 - [Enabling Android Teams: Tests? Ain't Nobody Got Time For That! by Ty Smith][214]
 - [A practical guide to writing solid UI tests on Android][215]
 
-###Debugging
+### Debugging
 
-######Posts
+###### Posts
 - [Tips on debugging Android apps][111]
 
-######Talks
+###### Talks
 Add the first video
 
 ###Kotlin
 
-######Posts
+###### Posts
 - [Keddit — Intro: Learn Kotlin while developing and Android App][119]
 - [Functional operations over Views in ViewGroup using Kotlin][102]
 - [Building a Kotlin project - Ciro Rizzo](#series)
@@ -147,16 +147,16 @@ Add the first video
 - [Mocking Kotlin with Mockito][175]
 - [Kotlin ❤ FP][180]
 
-######Talks
+###### Talks
 - [Android Development with Kotlin - Jake Wharton][22]
 - [Better Android Development with Kotlin and Gradle by Ty Smith & Yohan Hartanto][26]
 - [Where We Stand & What's Next for Kotlin][206]
 - [GOTO 2016 • Better Android Development with Kotlin and Gradle • Ty Smith][217]
 - [Droidcon NYC 2016 - Kotlin in Production][218]
 
-###Reactive
+### Reactive
 
-######Posts
+###### Posts
 - [RxJava's repeatWhen and retryWhen, explained - Dan Lew][115]
 - [Error handling in RxJava - Dan Lew][116]
 - [RxJava Observable tranformation: concatMap() vs flatMap() - Fernando Cejas][117]
@@ -165,74 +165,74 @@ Add the first video
 - [Chaining multiple sources with RxJava][176]
 - [How to leak memory with Subscriptions in RxJava][182]
 
-######Talks
+###### Talks
 - [Functional Reactive Programming in Java - Juan Gomez][201]
 
-###Android Studio
+### Android Studio
 
-######Posts
+###### Posts
 - [Writing More Code by Writing Less Code with Android Studio Live Templates][120]
 - [Welcome to my very own Android Studio protip Series - Sebastiano Poggi](#series)
 - [Faster Android Studio Builds with Dex In Process][143]
 - [The powerful Android Studio][150]
 - [No Tabs in IntelliJ IDEA][151]
 
-######Talks
+###### Talks
 - [IntelliJ IDEA Tips and Tricks][208]
 - [Android Studio for Experts (Android Dev Summit 2015)][209]
 - [The experts' guide to Android development tools - Google I/O 2016][210]
 
-###Gradle
+### Gradle
 
-######Posts
+###### Posts
 - [How to install different app variants on one Android device][126]
 
 
-######Talks
+###### Talks
 Add the first video
 
-###Storage
+### Storage
 
-######Posts
+##### Posts
 - [Designing a Database: Realm Threading Deep Dive][135]
 - [How to use Realm for Android like a champ, and how to tell if you’re doing it wrong][177]
 
-######Talks
+##### Talks
 Add the first video
 
-###Metrics
+### Metrics
 
-######Posts
+##### Posts
 - [AndroidDevMetrics — Activity lifecycle methods tracing][153]
 - [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development][154]
 - [Getting the most out of Crashlytics][166]
 - [The right way to ask users to review your app][170]
 - [Asking for App Feedback - The effective way][171]
 
-######Talks
+##### Talks
 Add the first video
 
 
-###Build Process
+### Build Process
 
-######Posts
+##### Posts
 - [Streamlining eero’s Android build process][164]
 
 
-######Talks
+##### Talks
 Add the first video
 
-###Security
+### Security
 
-######Posts
+##### Posts
 - [Dealing with Pirated App Users][173]
 - [Android Security: Adding Tampering Detection to Your App][174]
 
-######Talks
+##### Talks
 Add the first video
 
 
-###Series
+### Series
 
 - World-Class Testing Development Pipeline for Android - [Karumi][60]
 	- [World-Class Testing Development Pipeline for Android - Part 1][5]
@@ -288,7 +288,7 @@ Add the first video
 	- [Part 5][513]
 	- [Part 6][514]
 
-###Slides
+### Slides
 
 You can find lots of video presentations here:
 
@@ -299,9 +299,9 @@ You can find lots of video presentations here:
 - [Enrique López Mañas][43]
 - [Lisa Wray][44]
 
-##Discover
+## Discover
 
-###Blogs
+### Blogs
 - [Android Developers blog][1]
 - [Android weekly][17]
 - [Material Doc][10]
@@ -319,22 +319,22 @@ You can find lots of video presentations here:
 - [Riggaroo - Rebecca Franks][155]
 - [Future Studio][167]
 
-###Talks
+### Talks
 - [Android Developers][2]
 - [Droidcon NYC 2015][20]
 - [Jake Wharton Presentations][21]
 - [Droidcon SF 2016][202]
 
-###Communities and events
+### Communities and events
 - [Android Developers][3]
 - [DroidCon][30]
 - [Android at Google I/O 2016][205]
 
-###Libraries collection
+### Libraries collection
 - [snowdream/awesome-android][8]
 - [Android Arsenal][80]
 
-###License
+### License
 
 [tonilopezmr.github.io][0] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
 
