@@ -1,14 +1,14 @@
-#Android-Community
+# Android-Community
 
 Raccolta e presentazioni messaggi comunità Android italiani.
 
 Aiutami a creare la più grande raccolta di informazioni sulla comunità di Android insieme.
 
-###DroidCon Italy 2016
+### DroidCon Italy 2016
 
 - [DROIDCON ITALY RECAP][1]
 
-###License
+### License
 
 [tonilopezmr.github.io][0] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
 
