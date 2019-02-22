@@ -1,52 +1,52 @@
-#Android-Community
+# Android-Community
 
 Colección de posts y presentaciones de la comunidad Android en Español.
 
 Ayúdame a crear juntos la mayor colección de información acerca de la comunidad de android.
 
-###Resumen
+### Resumen
 
-#####[- Material Design](#material-design)
-#####[- CustomViews](#customviews)
-#####[- Arquitectura](#arquitectura)
-#####[- Patrones](#patrones)
-#####[- Inyección de dependencias](#inyección-de-dependencias)
-#####[- Testing](#testing)
-#####[- Kotlin](#kotlin)
-#####[- Listas de reproducción](#listas-de-reproducción)
-#####[- Series](#series)
-#####[- Slides](#slides)
-#####[- Jorge Barroso](#jorge-barroso)
+##### [- Material Design](#material-design)
+##### [- CustomViews](#customviews)
+##### [- Arquitectura](#arquitectura)
+##### [- Patrones](#patrones)
+##### [- Inyección de dependencias](#inyección-de-dependencias)
+##### [- Testing](#testing)
+##### [- Kotlin](#kotlin)
+##### [- Listas de reproducción](#listas-de-reproducción)
+##### [- Series](#series)
+##### [- Slides](#slides)
+##### [- Jorge Barroso](#jorge-barroso)
 
 
-###Material Design
+### Material Design
 
-######Posts
+###### Posts
  - [Componentes][1]
  - [Animaciones][10]
  - [Patrones][11]
 
-######Presentaciones
+###### Presentaciones
 - [#MADG Materialize your App with Design Support Library][204]
 
-###CustomViews
+### CustomViews
 
-######Posts
+###### Posts
 Añade el primer post
 
-######Presentaciones
+###### Presentaciones
 - [GDG DevFest Córdoba 2015. Track 1. Jorge Castillo. Jobandtalent. Android drawing & Graphics API][23]
 - [Saul Molinero - Design & be reactive on Android with Iron Man in a clean way][29]
 
-###Arquitectura
+### Arquitectura
 
-######Posts
+###### Posts
 - [‘Avengers’ vs Dagger2, RxJava & Retrofit visto desde ‘Clean’ por Saul Molinero][12]
 - [Arquitectura del software y sus beneficios por Christian Panadero][13]
 - [S is for Single Responsibility Principle][104]
 
 
-######Presentaciones
+###### Presentaciones
 - [Karumi Clean Architecture][2] 
 - [GDG Mallorca TekTalk3 - Limpiando espero la arquitectura que yo quiero][20]
 - [Clean Architecture for Android por José Manuel Pereira (Codemotion Madrid 2015)][27]
@@ -54,28 +54,28 @@ Añade el primer post
 - [GDG DevFest Córdoba 2015. Jorge Juan Barroso. Karumi. Persistiendo que es gerundio][26]
 - [My way to clean architecture - Christian Panadero - Android Day Salamanca 2015][211]
 
-###Patrones
+### Patrones
 
-######Posts
+###### Posts
 - [Patrones de diseño de software][103]
 
-######Presentaciones
+###### Presentaciones
 - [Ponencia Software Design Patterns on Android - Tuenti][203]
 
-###Inyección de dependencias
+### Inyección de dependencias
 
-######Posts
+###### Posts
 Añade el primer post
 
-######Presentaciones
+###### Presentaciones
 - [GDG DevFest Córdoba 2015. Pedro Vicente Gómez. Karumi. Dependency Injection on Android][25]	
 
-###Testing 
+### Testing 
 
-######Posts
+###### Posts
 - [Desmitificando los dobles de test: Mocks, stubs and friends][106]
 
-######Presentaciones
+###### Presentaciones
 - [Pablo Guardiola - Elegant?? Unit Testing][201]
 - [Codemotion 2015: Pedro Gómez Vicente - World-Class Testing Pipeline in Android][202]
 - [Dat Testing - Saúl Díaz - Android Day Salamanca 2015 GDG Salamanca][212]
@@ -83,16 +83,16 @@ Añade el primer post
 - [Joaquin Engelmo (kinisoftware) - Adicto al verde][215]
 - [Dando amor a los tests por Joaquin Engelmo][216]
 
-###Kotlin
+### Kotlin
 
-######Posts
+###### Posts
 - [Kotlin, the somewhat obscure modern Android-friendly programming language][105]
 
-######Presentaciones
+###### Presentaciones
 - [Scala Vs Kotlin - Javi Pacheco y Antonio Leiva (Karumi Talks)][21]	
 - [Kotlin for Android Developers (Codemotion Madrid 2015)][28]
 
-###Jorge Barroso
+### Jorge Barroso
 
 - [Forgetting Android][205]
 - [AndroidStartup 12/07/2012 Reunión - Galleta - Charla sobre Arquitectura de Tuenti][206]
@@ -102,11 +102,11 @@ Añade el primer post
 - [Ciclo de una idea en Android][210]
 - [CPMilenio - Adentrándonos en Android][217]
 
-###Listas de reproducción
+### Listas de reproducción
 - [GDG DevFest Córdoba 2015][24]
 - [GDG ExFest Cáceres 2016][214]
 
-###Series
+### Series
 
 - Un ‘stack’ productivo para el desarrollador android por [Saul Molinero][5]
 	- [Arquitectura][4]
@@ -129,7 +129,7 @@ Añade el primer post
 	- [Testing nivel 2: ¿Qué hace que un test sea un Test?][401]
 	- [Testing nivel 3: ¡No se cómo hacer mi primer test!][402]
 
-###Slides
+### Slides
 
 Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 
@@ -142,9 +142,9 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 - [César][35]
 - [Serchinastico][36]
 
-##Descubre
+## Descubre
 
-###Blogs
+### Blogs
 - [Android Developers blog][14]
 - [Android weekly][16]
 - [Material Doc][15]
@@ -154,7 +154,7 @@ Puedes encontrar muchas de las slides de los Presentaciones por aquí.
 - [Christian Panadero][101]
 - [devexperto.com][102]
 
-###License
+### License
 
 [tonilopezmr.github.io][0] Creative Commons Attribution 4.0 International (CC BY SA 4.0)
 
